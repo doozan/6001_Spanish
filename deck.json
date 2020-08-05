@@ -1,0 +1,148 @@
+{
+  "deck": {
+    "desc": "The 6001 most frequenly used Spanish words - with audio, comprehensive definitions, and usage sentences",
+    "name": "6001 Spanish Vocab",
+    "id": 1091781313372
+  },
+  "model": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n}\n.card.night_mode {\n color: white;\n background-color: black;\n}\n.synonyms { font-size: .75em }\n.pos { font-size: .75em }\n.pos.m { color: #268bd2 }\n.pos.f, .pos.f-el { color: #d33682 }\n.pos.mf { color: #6c71c4 }\n.pos.verb { color: #b58900 }\n.pos.verb.reflexive { color: #cb4b16 }\n.pos.adj { color: #2aa198 }\n.pos.adv { color: #859900 }\n.pos.interj { color: #dc322f }\n.eng { font-style: italic; font-size: .75em; color: #839496 }",
+    "did": 1091781313372,
+    "flds": [
+      {
+        "name": "Rank",
+        "ord": 0,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Spanish",
+        "ord": 1,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Part of Speech",
+        "ord": 2,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Synonyms",
+        "ord": 3,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "ShortDef",
+        "ord": 4,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Definition",
+        "ord": 5,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Sentences",
+        "ord": 6,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Display",
+        "ord": 7,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      },
+      {
+        "name": "Audio",
+        "ord": 8,
+        "sticky": false,
+        "rtl": false,
+        "font": "Arial",
+        "size": 20,
+        "media": []
+      }
+    ],
+    "id": 1587075402744,
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "mod": 1596667904,
+    "name": "6001-Spanish",
+    "req": [
+      [
+        0,
+        "any",
+        [
+          2,
+          8
+        ]
+      ],
+      [
+        1,
+        "any",
+        [
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+      {
+        "name": "Forward",
+        "ord": 0,
+        "qfmt": "<div class=\"pos\">{{Part of Speech}}</div>\n<div style=\"display:none;\">{{Audio}}</div>\n",
+        "afmt": "{{Display}}\n<div class=\"pos\">{{Part of Speech}} {{Rank}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[also {{Synonyms}}]</div>\n{{/Synonyms}}\n\n<hr id=answer>\n\n{{Definition}}\n<br><br>\n{{Sentences}}",
+        "did": null,
+        "bqfmt": "",
+        "bafmt": "",
+        "bfont": "Arial",
+        "bsize": 12
+      },
+      {
+        "name": "Reverse",
+        "ord": 1,
+        "qfmt": "{{#ShortDef}}{{ShortDef}}{{/ShortDef}}\n{{^ShortDef}}{{Definition}}{{/ShortDef}}\n<div class=\"pos\">{{Part of Speech}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[not {{Synonyms}}]</div>{{/Synonyms}}\n",
+        "afmt": "<div style=\"display:none;\">{{Audio}}</div>\n\n{{Definition}}\n<div class=\"pos\">{{Part of Speech}} {{Rank}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[not {{Synonyms}}]</div>\n{{/Synonyms}}\n\n<hr id=answer>\n\n{{Display}}\n<br><br>\n{{Sentences}}",
+        "did": null,
+        "bqfmt": "",
+        "bafmt": "",
+        "bfont": "Arial",
+        "bsize": 12
+      }
+    ],
+    "type": 0,
+    "usn": 340,
+    "vers": []
+  }
+}

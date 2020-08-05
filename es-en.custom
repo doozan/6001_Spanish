@@ -1,0 +1,80 @@
+# items to add or delete from the dictionary
+#
+# Delete all definitions for a word
+# - word
+#
+# Delete all definitions for a matching word/pos
+# - word {pos}
+#
+# Delete all definitions for a matching word/pos/note
+# - word {pos} [note]
+#
+# Delete specific definitions
+# - word {pos} [note] :: start of definition
+#
+# NOTE that there is a space between - and word, this is necessary
+# to distinguish from -suffix entries
+#
+- ajustado {adj} :: adjusted
+- ático {adj} :: Attic
+- ático {m} :: Attic 
+- abuela {f} [Mexico]
+- abuelo {m} :: loose tufts
+- asca {m}
+- atacado {adj}
+- amigo {m} [slang, Río de la Plata] :: penis
+- anillo {m} [mycology]
+- barba {m}
+- borracha {f}
+- cámara {mf}
+- céntimo
+céntimo {m} :: cent (monetary subdivision)
+- chicle {m} :: chicle
+- ciega {f}
+cojones {mp} [vulgar] :: balls, guts
+- considerando {m}
+- cuanto {m}
+- defensa {m}
+- dejado {adj}
+- estimado {adj}
+- ido
+- lanza {m}
+- libra {mf}
+- manga {m}
+- mano {m}
+- marca {mf}
+- matado {adj}
+- metido {adj}
+- moral {m}
+- mueble {m} [Spain, colloquial]
+- naranja {adj} [politics, Spain]
+- naranja {mf} [politics, Spain]
+niñita {meta-noun} :: m:'niñito'
+- par {f}
+- parto {adj} :: Parthian
+- parto {m} :: Parthian
+- patinar {vt}
+- pez {f}
+- pelota {mf}
+- poli {f}
+- primavera {mf}
+- púrpura {adj} [anglicism] :: purple
+púrpura {f} :: purple (colour)
+púrpura {f} [in a poetic sense] :: blood
+- púrpura {f} :: Tyrian purple
+- púrpura {f} [mollusk] :: purple dye murex (Murex brandaris)
+- púrpura {f} [pathology] :: purpura, thrombotic thrombocytopenic purpura
+- resaca {f} [Mexico, US Spanish] :: dry stream bed; resaca
+resaca {f} [Mexico, US Spanish] :: dry stream bed
+- san {f}
+- sapa {f} :: A reduction of must in Ancient Roman cuisine
+- sobornar {v} [formal] :: to suborn
+- soborno {m} [formal] :: subornation
+- temar
+- tercio {m} [bullfighting] :: tercio
+- tomado {adj}
+- tomo {m}
+- tirado {adj}
+- titular {mf}
+- traído {adj}
+varios {adj} :: various ; varied

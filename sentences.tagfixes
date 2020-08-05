@@ -1,0 +1,51 @@
+# Use this for overriding mistakes in the tagged sentences
+# it uses the format:
+#
+# oldword|oldlemma:oldpos:newword|newlemma:newpos
+#
+# if the |lemma is the same as the word, it can be ommitted:
+# calvo:noun:calvo:adj
+#
+
+mamíferos|mamífero:adj:mamíferos|mamífero:noun
+traficante:adj:traficante:noun
+
+tocado:adj:tocado|tocar:verb
+
+cabezota:noun:cabezota:adj
+calvo:noun:calvo:adj
+
+demonios|demonio:noun:demonios:adv
+diablos|diablo:noun:diablos:adv
+
+abras|abra:noun:abras|abrir:verb
+amas|amo:noun:amas|amar:verb
+aprecio:noun:aprecio|apreciar:verb
+coma:noun:coma|comer:verb
+comas|coma:noun:comas|comer:verb
+cojo:noun:cojo|coger:verb
+detente:noun:detente|detener:verb
+dejes|dejo:noun:dejes|dejar:verb
+encargo:noun:encargo|encargar:verb
+escuchas|escucha:noun:escuchas|escuchar:verb
+esperas|espera:noun:esperas|esperar:verb
+hablas|habla:noun:hablas|hablar:verb
+lamento:noun:lamento|lamentar:verb
+odio:noun:odio|odiar:verb
+pasas|pasa:noun:pasas|pasar:verb
+tenia:noun:tenia|tener:verb
+tratas|trata:noun:tratas|tratar:verb
+vayas|vaya:noun:vayas|ir:verb
+verme:noun:verme|ver:verb
+mata:noun:mata|matar:verb
+matas|mata:noun:matas|matar:verb
+
+# This is a name and should just be ignored
+taro|tarar:verb:_bad:_bad
+
+acerca|acercar:verb:acerca:adv
+
+maquina|maquinar:verb:maquina:noun
+pete|petar:verb:pete:noun
+
+arrepentir:verb:arrepentirse:verb
