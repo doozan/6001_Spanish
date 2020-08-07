@@ -1,11 +1,22 @@
-# Use this for overriding mistakes in the tagged sentences
+# Use this for correcting mistakes in the tagged sentences
 # it uses the format:
 #
-# oldword|oldlemma:oldpos:newword|newlemma:newpos
+# oldword|oldlemma:oldpos:newword|newlemma:newpos@id1,id2,id3
+#
+# if @ids are ommitted, the substitutions will be applied to all matching sentences
 #
 # if the |lemma is the same as the word, it can be ommitted:
 # calvo:noun:calvo:adj
 #
+
+revé|rever:verb:revele|reveler:verb@60585
+
+# Proper nouns that are mistaken as something else
+bárbara|bárbaro:adj:Barbara:propnoun@800873
+time|timar:verb:Time:propnoun@1334716
+verga:noun:Verga:propnoun@1343317
+
+efectivo:adj:efectivo:noun@1411080,2580952,1294017,1433312,1418935,7031086,1940020
 
 mamíferos|mamífero:adj:mamíferos|mamífero:noun
 traficante:adj:traficante:noun
