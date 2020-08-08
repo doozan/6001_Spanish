@@ -93,7 +93,7 @@
     "id": 1587075402744,
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "mod": 1596667904,
+    "mod": 1596845440,
     "name": "6001-Spanish",
     "req": [
       [
@@ -142,7 +142,7 @@
       }
     ],
     "type": 0,
-    "usn": 340,
+    "usn": 367,
     "vers": []
   }
 }
