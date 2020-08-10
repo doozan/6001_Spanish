@@ -5,7 +5,7 @@
     "id": 1091781313372
   },
   "model": {
-    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n}\n.card.night_mode {\n color: white;\n background-color: black;\n}\n.synonyms { font-size: .75em }\n.pos { font-size: .75em; display: block }\n.pos.m { color: #268bd2 }\n.pos.f, .pos.f-el { color: #d33682 }\n.pos.mf { color: #6c71c4 }\n.pos.verb { color: #b58900 }\n.pos.verb.reflexive { color: #cb4b16 }\n.pos.adj { color: #2aa198 }\n.pos.adv { color: #859900 }\n.pos.interj { color: #dc322f }\n.eng { font-style: italic; font-size: .75em; color: #839496 }\n\n//.only-cuba { display: none }\n//.only-dominican-republic { display: none }\n//.only-puerto-rico { display: none }\n.only-caribbean { display: none }\n\n.only-costa-rica { display: none }\n.only-el-salvador { display: none }\n.only-guatemala { display: none }\n.only-honduras { display: none }\n.only-nicaragua { display: none }\n.only-panama { display: none }\n//.only-central-america { display: none }\n\n.only-argentina { display: none }\n.only-bolivia { display: none }\n.only-chile { display: none }\n.only-colombia { display: none }\n.only-ecuador { display: none }\n.only-paraguay { display: none }\n//.only-peru { display: none }\n.only-uruguay { display: none }\n.only-venezuela { display: none }\n//.only-south-america { display: none }\n\n.only-philippines { display: none }\n\n//.only-new-mexico { display: none }\n//.only-louisiana { display: none }\n//.only-california { display: none }\n//.only-texas { display: none }\n.only-united-states { display: none }\n\n//.only-mexico { display: none }\n\n//.only-spain { display: none }\n\n//.only-latin-america { display: none }",
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n}\n.card.night_mode {\n color: white;\n background-color: black;\n}\n.synonyms { font-size: .75em }\n.pos { font-size: .75em; display: block }\n.pos.m { color: #268bd2 }\n.pos.f, .pos.f-el { color: #d33682 }\n.pos.mf { color: #6c71c4 }\n.pos.verb { color: #b58900 }\n.pos.verb.reflexive { color: #cb4b16 }\n.pos.adj { color: #2aa198 }\n.pos.adv { color: #859900 }\n.pos.interj { color: #dc322f }\n.eng { font-style: italic; font-size: .75em; color: #839496 }\n\n/* Hide synonyms that aren't in the deck */\n/* .synonyms .extra { display: none } */\n\n/*\nYou can uncomment the following styles to hide country or region-specific definitions\nIf you hide a region it will hide all country-specific definitions for each country within that region\n\nFor example, if you change\n/* .only-caribbean { display: none } * /\nto:\n.only-caribbean { display: none }\nit will hide all definitions that are flagged as \"carribbean\" as well as all definitions that are flagged\nwith \"cuba\" \"dominican republic\" and \"puerto rico\".  It will not hide definitons that are flagged\n\"cuba\" and \"spain\" as that would not be usage exclusive to the \"carribean\" region\n\nAlternately, if you'd like to hide all definitions that are unique to a specific country, you can uncomment\nthe country definition:\n.only-cuba { display: none }\nwill hide all definitions that are only tagged with \"cuba\"\n*/\n\n/* .only-cuba { display: none } */\n/* .only-dominican-republic { display: none } */\n/* .only-puerto-rico { display: none } */\n.only-caribbean { display: none }\n\n.only-central-america { display: none }\n/* .only-costa-rica { display: none } */\n/* .only-el-salvador { display: none } */\n/* .only-guatemala { display: none } */\n/* .only-honduras { display: none } */\n/* .only-nicaragua { display: none } */\n/* .only-panama { display: none } */\n\n.only-south-america { display: none }\n/* .only-argentina { display: none } */\n/* .only-bolivia { display: none } */\n/* .only-chile { display: none } */\n/* .only-colombia { display: none } */\n/* .only-ecuador { display: none } */\n/* .only-paraguay { display: none } */\n.only-peru { display: block }\n/* .only-uruguay { display: none } */\n/* .only-venezuela { display: none } */\n\n.only-philippines { display: none }\n\n.only-united-states { display: none }\n/* .only-new-mexico { display: none } */\n/* .only-louisiana { display: none } */\n/* .only-california { display: none } */\n/* .only-texas { display: none } */\n\n/* .only-mexico { display: none } */\n\n/* .only-spain { display: none } */\n\n/* .only-latin-america { display: none } */",
     "did": 1091781313372,
     "flds": [
       {
@@ -93,7 +93,7 @@
     "id": 1587075402744,
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "mod": 1597021792,
+    "mod": 1597053539,
     "name": "6001-Spanish",
     "req": [
       [
@@ -142,7 +142,8 @@
       }
     ],
     "type": 0,
-    "usn": 385,
-    "vers": []
+    "usn": -1,
+    "vers": [],
+    "latexsvg": false
   }
 }
