@@ -3231,12 +3231,12 @@ llamado,adj,,,"<span class=""pos adj"">{adj} <span class=""usage"">called</span>
 <span class=""spa"">Tom y Mary tienen un niño llamado John.</span><br>
 <span class=""eng"">Tom and Mary have a son named John.</span>",[sound:P2HP6U3LUJZMINOHB3RNCLBRIUVET33T.mp3]
 perdón,m,,"<span class=""pos noun m""> <span class=""usage"">pardon; mercy</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">pardon; mercy</span></span>
-<span class=""pos interj"">{interj} <span class=""usage"">sorry, pardon me (excuse me); sorry, pardon (I didn't hear you)</span></span>","<span class=""spa"">Tom le rogó perdón a Mary.</span><br>
-<span class=""eng"">Tom begged Mary for forgiveness.</span><br>
-<span class=""spa"">Perdón. Todo es mi culpa.</span><br>
-<span class=""eng"">Sorry. It's all my fault.</span><br>
-<span class=""spa"">Debes pedirle perdón, y hacerlo de inmediato.</span><br>
-<span class=""eng"">You must apologize to her, and do it at once.</span>",[sound:KXRNYJOGI7M55EENYJNQAOBIRZMGWAED.mp3]
+<span class=""pos interj"">{interj} <span class=""usage"">sorry, pardon me (excuse me); sorry, pardon (I didn't hear you)</span></span>","<span class=""spa"">Perdón, es un error mecanográfico.</span><br>
+<span class=""eng"">Sorry, that's a typo.</span><br>
+<span class=""spa"">¡Perdón, Jorge! ¡No te había visto!</span><br>
+<span class=""eng"">I'm sorry, Jorge! I didn't see you!</span><br>
+<span class=""spa"">Te pido que me perdones.</span><br>
+<span class=""eng"">I ask that you forgive me.</span>",[sound:KXRNYJOGI7M55EENYJNQAOBIRZMGWAED.mp3]
 anoche,adv,,,"<span class=""pos adv""> <span class=""usage"">last night</span></span>","<span class=""spa"">Anoche tuve un sueño divertido.</span><br>
 <span class=""eng"">I had a funny dream last night.</span><br>
 <span class=""spa"">Anoche tuve un buen sueño.</span><br>
@@ -6962,8 +6962,8 @@ fantasma,m,,,"<span class=""pos noun m""> <span class=""usage"">ghost, phantom</
 <span class=""eng"">She was surprised when she saw the ghost.</span><br>
 <span class=""spa"">Tom dice que él incluso ha visto un fantasma.</span><br>
 <span class=""eng"">Tom says he has actually seen a ghost.</span>",[sound:MALTYKYRJ4CWQ4THQIXGMLLXHXGDXP3Q.mp3]
-papa,m-f,patata,"<span class=""pos noun m-f f latin-america only-latin-america only-latin-america"">{f} <span class=""tag"">[Latin America, Canary Islands, Andalusia]:</span><span class=""usage"">potato</span></span>
-<span class=""pos noun m-f m"">{m} <span class=""usage"">pope</span></span>","<span class=""pos noun m-f f latin-america only-latin-america only-latin-america"">{f} <span class=""tag"">[Latin America, Canary Islands, Andalusia]:</span><span class=""usage"">potato</span></span>
+papa,m-f,patata,"<span class=""pos noun m-f f canary-islands latin-america"">{f} <span class=""tag"">[Latin America, Canary Islands, Andalusia]:</span><span class=""usage"">potato</span></span>
+<span class=""pos noun m-f m"">{m} <span class=""usage"">pope</span></span>","<span class=""pos noun m-f f canary-islands latin-america"">{f} <span class=""tag"">[Latin America, Canary Islands, Andalusia]:</span><span class=""usage"">potato</span></span>
 <span class=""pos noun m-f f""> <span class=""tag"">[childish, familiar]:</span><span class=""usage"">very bland soup, or more broadly, food in general</span></span>
 <span class=""pos noun m-f f""> <span class=""tag"">[figuratively]:</span><span class=""usage"">nonsense, trifle, rubbish</span></span>
 <span class=""pos noun m-f m"">{m} <span class=""usage"">pope (an honorary title of the Roman Catholic bishop of Rome)</span></span>","<span class=""spa"">Ella está pelando las papas.</span><br>
@@ -28409,7 +28409,7 @@ batallón,m,,,"<span class=""pos noun m""> <span class=""usage"">battalion</span
 <span class=""eng"">The battalion surrendered to the enemy.</span><br>
 <span class=""spa"">Recibió orden de incorporarse en su batallón.</span><br>
 <span class=""eng"">He got orders to join his battalion.</span>",[sound:B4L5VDVCX5EZUX5D3LMVPDPREX3K5OJE.mp3]
-maní,m,,,"<span class=""pos noun m caribbean central-america philippines south-america""> <span class=""tag"">[Canary Islands, Caribbean, Central America, Philippines, South America]:</span><span class=""usage"">peanut</span></span>","<span class=""spa"">Tom no puede comer maní.</span><br>
+maní,m,,,"<span class=""pos noun m canary-islands caribbean central-america philippines south-america""> <span class=""tag"">[Canary Islands, Caribbean, Central America, Philippines, South America]:</span><span class=""usage"">peanut</span></span>","<span class=""spa"">Tom no puede comer maní.</span><br>
 <span class=""eng"">Tom can't eat peanuts.</span><br>
 <span class=""spa"">A muchos niños les gusta comer sándwiches de mantequilla de maní.</span><br>
 <span class=""eng"">Many children enjoy eating peanut butter sandwiches.</span><br>
