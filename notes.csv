@@ -110,7 +110,8 @@ aquí,adv,"<span class=""syn deck"">acá</span>",,"<span class=""pos adv""> <spa
 <span class=""eng"">They might not notice that Tom isn't here.</span><br>
 <span class=""spa"">¿Vas a cortar todos los árboles de aquí?</span><br>
 <span class=""eng"">Are you going to cut down all the trees here?</span>",[sound:32IE5JKUU633PZKB4F3ZHNS235K7NRL7.mp3]
-bueno,adj,,"<span class=""pos adj""> <span class=""usage"">good; fine</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">good; fine</span></span>
+bueno,adj,,"<span class=""pos adj"">{adj} <span class=""usage"">good; fine</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">okay</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">good; fine</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">okay; fine</span></span>
 <span class=""pos interj""> <span class=""tag"">[used at the start of a phrase]:</span><span class=""usage"">well; a short pause in a sentence</span></span>
 <span class=""pos interj mexico only-latin-america only-mexico""> <span class=""tag"">[interrogatively, Mexico]:</span><span class=""usage"">Expression used when answering the phone, often with the pronunciation /bweˈno/, rather than /ˈbweno/</span></span>","<span class=""spa"">Ella es muy buena moza.</span><br>
@@ -156,7 +157,8 @@ deber,verb,,"<span class=""pos verb vt"">{vt} <span class=""usage"">to owe</span
 <span class=""eng"">A housewife has many domestic duties.</span><br>
 <span class=""spa"">Debemos volvernos a la edad media para rastrear su origen.</span><br>
 <span class=""eng"">To determine its origin, we must go back to the middle ages.</span>",[sound:CCKJHSRDS43TE6PO3JPH6F23UQTZ62I4.mp3]
-ya,adv,"<span class=""syn deck"">ahora</span><span class=""syn extra"">, ahorita</span>","<span class=""pos adv""> <span class=""usage"">now; already, yet</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">now; already, yet; in the near future; soon; immediately; anymore; no longer</span></span>
+ya,adv,"<span class=""syn deck"">ahora</span><span class=""syn extra"">, ahorita</span>","<span class=""pos adv"">{adv} <span class=""usage"">now; already, yet</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">come on!, let's go!</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">now; already, yet; in the near future; soon; immediately; anymore; no longer</span></span>
 <span class=""pos adv""> <span class=""tag"">[emphatic]:</span><span class=""usage"">emphatic (similar to the use of English ""so"" or ""oh"" as an interjection)</span></span>
 <span class=""pos adv""> <span class=""tag"">[in negatives]:</span><span class=""usage"">only</span></span>
 <span class=""pos adv""> <span class=""tag"">[before pero]:</span><span class=""usage"">yes</span></span>
@@ -230,8 +232,7 @@ pasar,verb,"<span class=""syn deck"">ocurrir, suceder, aprobar, llevar, enviar</
 <span class=""eng"">I have no idea of what's going on in there.</span><br>
 <span class=""spa"">Pasó por su cabeza que ella iba a morir.</span><br>
 <span class=""eng"">The thought flashed through her mind that she was going to die.</span>",[sound:2NSBXY5D7RTN27L2RPUDKTEROU4FTC67.mp3]
-este,m,"<span class=""syn deck"">oriente, levante</span>","<span class=""pos noun m"">{m} <span class=""usage"">east</span></span>
-<span class=""pos adj"">{adj} <span class=""usage"">this</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">east</span></span>
+este,m,"<span class=""syn deck"">oriente, levante</span>",,"<span class=""pos noun m"">{m} <span class=""usage"">east</span></span>
 <span class=""pos adj"">{adj} <span class=""usage"">this</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">uh, well (space filler in a conversation)</span></span>","<span class=""spa"">Mi habitación da al este.</span><br>
 <span class=""eng"">My room faces east.</span><br>
@@ -317,7 +318,8 @@ nuestro,adj,,,"<span class=""pos adj"">{adj} <span class=""usage"">our, ours, to
 <span class=""eng"">From now on, you're one of us.</span><br>
 <span class=""spa"">Las máquinas que produce su compañía son superiores a las nuestras.</span><br>
 <span class=""eng"">Machines that his company produces are superior to ours.</span>",[sound:B5Y7BCRERFMPNHFOM54ZJZTN3EPSX6TE.mp3]
-hombre,m,"<span class=""syn deck"">varón</span><span class=""syn extra"">, activo</span>","<span class=""pos noun m""> <span class=""usage"">man, (adult male human); man, (all humans collectively)</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">man, (adult male human); man, (all humans collectively); mankind, humankind; boy, (young straight male human being); a 17th century card game also called ombre</span></span>
+hombre,m,"<span class=""syn deck"">varón</span><span class=""syn extra"">, activo</span>","<span class=""pos noun m"">{m} <span class=""usage"">man, (adult male human)</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">Man!</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">man, (adult male human); man, (all humans collectively); mankind, humankind; boy, (young straight male human being); a 17th century card game also called ombre</span></span>
 <span class=""pos noun m""> <span class=""tag"">[anthropology, archaeology, paleontology]:</span><span class=""usage"">man, (individual of the species Homo sapiens, the genus Homo, or the subtribe Hominina)</span></span>
 <span class=""pos noun m""> <span class=""tag"">[colloquial]:</span><span class=""usage"">husband</span></span>
 <span class=""pos noun m""> <span class=""tag"">[gay slang]:</span><span class=""usage"">top</span></span>
@@ -333,7 +335,7 @@ casa,f,,,"<span class=""pos noun f""> <span class=""usage"">house</span></span>"
 <span class=""eng"">He's always at home on Mondays.</span><br>
 <span class=""spa"">Los domingos siempre está en casa.</span><br>
 <span class=""eng"">He's always at home on Sundays.</span>",[sound:HITVM7DZLJJAGUY7376Z6ECRMQ42S6QO.mp3]
-verdad,f,,"<span class=""pos noun f""> <span class=""usage"">truth; fact</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">truth; fact</span></span>
+verdad,f,,,"<span class=""pos noun f"">{f} <span class=""usage"">truth; fact</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">right</span></span>","<span class=""spa"">Hay algo de verdad en eso.</span><br>
 <span class=""eng"">There is some truth in that.</span><br>
 <span class=""spa"">Odias a los turistas, ¿verdad?</span><br>
@@ -785,8 +787,9 @@ tipo,m,"<span class=""syn deck"">género, clase, especie, suerte, gallo</span>",
 <span class=""eng"">He is a very forgetful fellow.</span><br>
 <span class=""spa"">Yo no como normalmente este tipo de comida.</span><br>
 <span class=""eng"">I don't normally eat this kind of food.</span>",[sound:VR2ZZPBZEXI4SVU6VWIF4OUJD2QSNXBR.mp3]
-claro,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">certainly, naturally, of course</span></span>
-<span class=""pos adj"">{adj} <span class=""usage"">light, bright</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">certainly, naturally, of course</span></span>
+claro,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">certainly, naturally</span></span>
+<span class=""pos adj"">{adj} <span class=""usage"">light</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">of course</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">certainly, naturally, of course</span></span>
 <span class=""pos adj"">{adj} <span class=""usage"">light, bright; clear</span></span>
 <span class=""pos noun m"">{m} <span class=""usage"">sunny spell; clearing; bald patch</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">of course; for sure; sure (indicates enthusiastic agreement)</span></span>","<span class=""spa"">Claro que recuerdo el día muy bien.</span><br>
@@ -1007,7 +1010,8 @@ conseguir,verb,"<span class=""syn deck"">adquirir</span>","<span class=""pos ver
 <span class=""eng"">Tom finally got hold of the rare stamp he wanted.</span><br>
 <span class=""spa"">Tom finalmente logró conseguir el trabajo que le gustaba.</span><br>
 <span class=""eng"">Tom finally succeeded in getting a job that he liked.</span>",[sound:66MYGXEPCU2HABPF6L7NDFWPXVEC3PCL.mp3]
-mierda,f,,"<span class=""pos noun f""> <span class=""tag"">[vulgar]:</span><span class=""usage"">shit; drunkenness</span></span>","<span class=""pos noun f"">{f} <span class=""tag"">[vulgar]:</span><span class=""usage"">shit; drunkenness</span></span>
+mierda,f,,"<span class=""pos noun f"">{f} <span class=""tag"">[vulgar]:</span><span class=""usage"">shit; drunkenness</span></span>
+<span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[Spain]:</span><span class=""usage"">shit!</span></span>","<span class=""pos noun f"">{f} <span class=""tag"">[vulgar]:</span><span class=""usage"">shit; drunkenness</span></span>
 <span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[Spain]:</span><span class=""usage"">shit! (expression of worry, failure, shock, only for negative situations)</span></span>","<span class=""spa"">¡Eres una mentirosa de mierda!</span><br>
 <span class=""eng"">You're a filthy liar!</span><br>
 <span class=""spa"">Mierda, tienes hasta colillas de cigarro tiradas por ahí.</span><br>
@@ -1400,7 +1404,7 @@ lado,m,"<span class=""syn extra"">costado, vera</span>",,"<span class=""pos noun
 <span class=""eng"">He always takes sides with her.</span><br>
 <span class=""spa"">Todos se apresuraron hacia el otro lado del barco para ver qué estaba sucediendo.</span><br>
 <span class=""eng"">Everyone rushed over to the other side of the ship to see what was happening.</span>",[sound:WFRTYLWWY5ZV4BK7TKPIERTPAKG3J3UQ.mp3]
-maldito,adj,,"<span class=""pos adj""> <span class=""usage"">cursed; damned</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">cursed; damned</span></span>
+maldito,adj,,,"<span class=""pos adj"">{adj} <span class=""usage"">cursed; damned</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">damn</span></span>","<span class=""spa"">Hay tres tipos de mentiras: las mentiras, las malditas mentiras y las estadísticas.</span><br>
 <span class=""eng"">There are three kinds of lies: lies, damned lies, and statistics.</span><br>
 <span class=""spa"">¡Maldito truhan! ¿De verdad creías que me ibas a engañar?</span><br>
@@ -1590,7 +1594,7 @@ pues,conj,,"<span class=""pos conj""> <span class=""usage"">so, then, pues; in t
 <span class=""eng"">I'm kind of hungry, too.</span><br>
 <span class=""spa"">Probablemente ganaríamos más dinero si bajásemos el precio, pues podríamos vender más.</span><br>
 <span class=""eng"">We could probably make more money if we lowered the price since we could sell more.</span>",[sound:AVSIYLEGEB7SAVS7JJMD4XWR2BYTEHJK.mp3]
-adiós,m,,"<span class=""pos noun m""> <span class=""usage"">farewell; goodbye</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">farewell; goodbye</span></span>
+adiós,m,,,"<span class=""pos noun m"">{m} <span class=""usage"">farewell; goodbye</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">goodbye, farewell</span></span>","<span class=""spa"">Tom le dijo adiós a Mary.</span><br>
 <span class=""eng"">Tom said goodbye to Mary.</span><br>
 <span class=""spa"">Ella sonrió y dijo adiós.</span><br>
@@ -1610,7 +1614,8 @@ ayuda,m-f,"<span class=""syn deck"">asistencia, ayudante</span>",,"<span class="
 <span class=""eng"">They need help to understand their office equipment.</span><br>
 <span class=""spa"">Pensé que Tom necesitaría ayuda para entrar y salir de la ducha.</span><br>
 <span class=""eng"">I thought Tom would need help getting in and out of the bathtub.</span>",[sound:XHAT4LWWDVFSUEN3HUTWQKVDNPOYXLCK.mp3]
-ojo,m,,"<span class=""pos noun m""> <span class=""usage"">eye; keyhole</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">eye; keyhole; caution</span></span>
+ojo,m,,"<span class=""pos noun m"">{m} <span class=""usage"">eye; keyhole</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">look! watch out!</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">eye; keyhole; caution</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">look! watch out!</span></span>","<span class=""spa"">Los ojos de Tomás están abiertos.</span><br>
 <span class=""eng"">Tom's eyes are open.</span><br>
 <span class=""spa"">Ojo con los ladrones por aquí.</span><br>
@@ -1747,7 +1752,8 @@ quizás,adv,"<span class=""syn deck"">acaso, tal vez</span>",,"<span class=""pos
 <span class=""eng"">Maybe it will be exactly the same for him.</span><br>
 <span class=""spa"">Tom dijo que María pensaba que él quizás no tendría que hacerlo por sí solo.</span><br>
 <span class=""eng"">Tom said that Mary thought he might not need to do that by himself.</span>",[sound:YXVPI6KGTQDPW3BIQ62VZLHYBG7BEXXQ.mp3]
-listo,adj,"<span class=""syn deck"">astuto, inteligente, preparado, dispuesto</span><span class=""syn extra"">, avispado, espabilado, pillo</span>","<span class=""pos adj""> <span class=""usage"">clever; ready, set, all set, prepared, poised, up, down</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">clever, smart [with ser]; ready, set, all set, prepared, poised, up, down [with estar]; alert</span></span>
+listo,adj,"<span class=""syn deck"">astuto, inteligente, preparado, dispuesto</span><span class=""syn extra"">, avispado, espabilado, pillo</span>","<span class=""pos adj"">{adj} <span class=""usage"">clever; ready, set, all set, prepared</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">get set!</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">clever, smart [with ser]; ready, set, all set, prepared, poised, up, down [with estar]; alert</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">get set! (before starting a race); that's it! (it's finished!)</span></span>","<span class=""spa"">Tom parece un chico listo.</span><br>
 <span class=""eng"">Tom looks like a clever boy.</span><br>
 <span class=""spa"">¿Podrías esperar hasta que esté listo?</span><br>
@@ -1783,7 +1789,8 @@ pronto,adv,"<span class=""syn deck"">luego</span>","<span class=""pos adv"">{adv
 <span class=""eng"">We expect an early settlement of the affair.</span><br>
 <span class=""spa"">Nos levantamos pronto para ver salir el sol.</span><br>
 <span class=""eng"">We got up early so that we could see the sunrise.</span>",[sound:76NESOFQAAXII6LWT6SLWIJQIIKKVBB7.mp3]
-suerte,f,"<span class=""syn deck"">dicha, tipo, género</span><span class=""syn extra"">, ventura</span>","<span class=""pos noun f""> <span class=""usage"">luck, fortune; lot, fate</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">luck, fortune; lot, fate; sort, kind, type; oracular response</span></span>
+suerte,f,"<span class=""syn deck"">dicha, tipo, género</span><span class=""syn extra"">, ventura</span>","<span class=""pos noun f"">{f} <span class=""usage"">luck, fortune; lot, fate</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">good luck!</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">luck, fortune; lot, fate; sort, kind, type; oracular response</span></span>
 <span class=""pos noun f""> <span class=""tag"">[bullfighting]:</span><span class=""usage"">stage in a bullfight</span></span>
 <span class=""pos noun f latin-america only-latin-america only-latin-america""> <span class=""tag"">[Latin America]:</span><span class=""usage"">lottery ticket</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">good luck!</span></span>","<span class=""spa"">Solo quiero decir buena suerte.</span><br>
@@ -1815,7 +1822,8 @@ funcionar,verb,"<span class=""syn extra"">furular</span>",,"<span class=""pos ve
 <span class=""eng"">I gained a clear picture of how it works.</span><br>
 <span class=""spa"">Espero que el nuevo plan funcione satisfactoriamente.</span><br>
 <span class=""eng"">I hope the new plan will work out satisfactorily.</span>",[sound:VA5XD5VSQRTHKL6E7EHW4ATJPIGPLZF4.mp3]
-punto,m,,"<span class=""pos noun m""> <span class=""usage"">point; decimal, point</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">point (unit of measurement); decimal, point (arithmetic symbol), period; [punto de encuentro] point, location, place; stitch; great surprise</span></span>
+punto,m,,"<span class=""pos noun m"">{m} <span class=""usage"">point; decimal, point</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">that's it!</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">point (unit of measurement); decimal, point (arithmetic symbol), period; [punto de encuentro] point, location, place; stitch; great surprise</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">that's it!</span></span>","<span class=""spa"">Estuvo a punto de perder un ojo.</span><br>
 <span class=""eng"">He came close to losing an eye.</span><br>
 <span class=""spa"">Tom estaba a punto de irse cuando María golpeó a la puerta.</span><br>
@@ -1898,7 +1906,8 @@ tocar,verb,,"<span class=""pos verb vt"">{vt} <span class=""usage"">to touch; to
 <span class=""eng"">I've always wanted to learn to play the oboe.</span><br>
 <span class=""spa"">Tom es muy bueno tocando piano de oído.</span><br>
 <span class=""eng"">Tom is pretty good at playing piano by ear.</span>",[sound:NG6RR22U7AMPL2TZOJI3LNZDPB3RY2FQ.mp3]
-alto,adj,,"<span class=""pos adj""> <span class=""usage"">tall; high</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">tall; high; loud; upper, top; senior (rank)</span></span>
+alto,adj,,"<span class=""pos adj"">{adj} <span class=""usage"">tall; high</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">halt!</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">tall; high; loud; upper, top; senior (rank)</span></span>
 <span class=""pos noun m"">{m} <span class=""usage"">height (in measurements); stop, halt; break, pause, rest</span></span>
 <span class=""pos noun m""> <span class=""tag"">[traffic]:</span><span class=""usage"">stop (signal); red light</span></span>
 <span class=""pos adv"">{adv} <span class=""usage"">up, high, highly; loudly</span></span>
@@ -2038,7 +2047,8 @@ correr,verb,"<span class=""syn extra"">venirse</span>","<span class=""pos verb v
 <span class=""eng"">I grabbed my little sister's hand and started running.</span><br>
 <span class=""spa"">Corriendo lo más rápido que pude, logré alcanzar a mi amigo.</span><br>
 <span class=""eng"">Running as fast as I could, I was able to catch up with my friend.</span>",[sound:MQM5VGXWCYMM3DFVD2Q4J56JQ3ZJC6ZO.mp3]
-adelante,adv,,"<span class=""pos adv""> <span class=""usage"">forward (toward the front); forward (into the future)</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">forward (toward the front); forward (into the future)</span></span>
+adelante,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">forward (toward the front)</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">come in</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">forward (toward the front); forward (into the future)</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">come in; go ahead</span></span>","<span class=""spa"">El proyecto de ley salió adelante.</span><br>
 <span class=""eng"">The bill went through.</span><br>
 <span class=""spa"">""¿Puedo usar tu coche?"" ""Seguro. Adelante.""</span><br>
@@ -2284,7 +2294,8 @@ teléfono,m,"<span class=""syn extra"">número de teléfono</span>",,"<span clas
 <span class=""eng"">There's a pay phone over there.</span><br>
 <span class=""spa"">¿Por qué no usaste un teléfono de pago?</span><br>
 <span class=""eng"">Why didn't you use a pay phone?</span>",[sound:FDT3HK3VBT2ULOHAVNMLP3R3NDJ5JL72.mp3]
-arriba,adv,,"<span class=""pos adv""> <span class=""usage"">above, over; up</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">above, over; up; uphill; upstream; upstairs</span></span>
+arriba,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">above, over; up</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">come on!</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">above, over; up; uphill; upstream; upstairs</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">come on!; hurray for (someone)!; up with</span></span>","<span class=""spa"">Lo miró de arriba abajo.</span><br>
 <span class=""eng"">He looked him up and down.</span><br>
 <span class=""spa"">Lo examinó de arriba abajo.</span><br>
@@ -2520,7 +2531,8 @@ correcto,adj,,,"<span class=""pos adj""> <span class=""usage"">correct, right; w
 <span class=""eng"">Excuse me, but is this the right way to the subway station?</span><br>
 <span class=""spa"">No es correcto que hagas algo malo solo porque alguien más haya hecho algo malo.</span><br>
 <span class=""eng"">It's not right for you to do something bad just because someone else has done something bad.</span>",[sound:VV62IRD252IEMY2HRMVNNU3YTTFCJVOU.mp3]
-abajo,adv,,"<span class=""pos adv""> <span class=""usage"">down; downstairs</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">down; downstairs; below</span></span>
+abajo,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">down; downstairs</span></span>
+<span class=""pos interj"">{interj} <span class=""tag"">[figuratively]:</span><span class=""usage"">down with, away with</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">down; downstairs; below</span></span>
 <span class=""pos interj"">{interj} <span class=""tag"">[figuratively]:</span><span class=""usage"">down with, away with</span></span>","<span class=""spa"">Apareció un gato de abajo del escritorio.</span><br>
 <span class=""eng"">A cat appeared from under the desk.</span><br>
 <span class=""spa"">La estaca que sobresale es machacada hacia abajo.</span><br>
@@ -2534,7 +2546,8 @@ bonito,adj,"<span class=""syn deck"">chulo, guapo</span><span class=""syn extra"
 <span class=""eng"">You have such beautiful eyes.</span><br>
 <span class=""spa"">Su voz era suave y bonita.</span><br>
 <span class=""eng"">Her voice was soft and beautiful.</span>",[sound:H3CGPNNQ2CIEEL56CBEQSEFY5WM2IYQK.mp3]
-largo,adj,,"<span class=""pos adj""> <span class=""usage"">long; long, lengthy, extended, prolonged, protracted,</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">long (having much distance from one terminating point to another); long, lengthy, extended, prolonged, protracted, (having great duration); long, long-running (seemingly lasting a lot of time); good (slightly larger than the given amount)</span></span>
+largo,adj,,"<span class=""pos adj"">{adj} <span class=""usage"">long; long, lengthy, extended, prolonged</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">get out!</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">long (having much distance from one terminating point to another); long, lengthy, extended, prolonged, protracted, (having great duration); long, long-running (seemingly lasting a lot of time); good (slightly larger than the given amount)</span></span>
 <span class=""pos noun m"">{m} <span class=""usage"">length</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">get out!, scram!; get away!</span></span>","<span class=""spa"">Ella tiene el cabello largo.</span><br>
 <span class=""eng"">She has long hair.</span><br>
@@ -2585,7 +2598,8 @@ negocio,m,"<span class=""syn deck"">comercio</span>","<span class=""pos noun m""
 <span class=""eng"">I'm a salesman.</span><br>
 <span class=""spa"">Mi negocio está en un punto muerto debido a la recesión.</span><br>
 <span class=""eng"">My business is at a standstill because of the recession.</span>",[sound:X7NAISXEDEOS5HIZSOTBPOYDC26QNMFZ.mp3]
-atrás,adv,"<span class=""syn extra"">hace</span>","<span class=""pos adv""> <span class=""usage"">behind; back in time, ago</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">behind; back in time, ago</span></span>
+atrás,adv,"<span class=""syn extra"">hace</span>","<span class=""pos adv"">{adv} <span class=""usage"">behind; back in time</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">get back, back off</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">behind; back in time, ago</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">get back, back off, back away</span></span>","<span class=""spa"">La bomba explotó hace dos días atrás.</span><br>
 <span class=""eng"">The bomb exploded two days ago.</span><br>
 <span class=""spa"">Tom conoció a Mary hace un par de años atrás.</span><br>
@@ -3119,7 +3133,8 @@ demonios,adv,,,"<span class=""pos adv""> <span class=""usage"">the hell, on eart
 <span class=""eng"">What on earth do you think you're doing?</span><br>
 <span class=""spa"">¿Dices que quieres ir a Boston? ¿Por qué demonios querrías ir allí?</span><br>
 <span class=""eng"">You say you want to go to Boston? Why in the world would you want to go there?</span>",[sound:2ATW6PVKKIT5VSGKV4R4VOXHI5POLVP5.mp3]
-cambio,m,"<span class=""syn extra"">vicisitud</span>","<span class=""pos noun m""> <span class=""usage"">change, shift; exchange rate</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">change, shift; exchange rate; gear (of a motor vehicle)</span></span>
+cambio,m,"<span class=""syn extra"">vicisitud</span>","<span class=""pos noun m"">{m} <span class=""usage"">change, shift; exchange rate</span></span>
+<span class=""pos interj"">{interj} <span class=""tag"">[telecommunication]:</span><span class=""usage"">over</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">change, shift; exchange rate; gear (of a motor vehicle)</span></span>
 <span class=""pos interj"">{interj} <span class=""tag"">[telecommunication]:</span><span class=""usage"">over</span></span>","<span class=""spa"">A él le encantó el cambio.</span><br>
 <span class=""eng"">He loved the change.</span><br>
 <span class=""spa"">""Uno-uno, habla uno-dos. Repite mensaje, te estoy recibiendo mal. Cambio.""</span><br>
@@ -3230,7 +3245,8 @@ llamado,adj,,,"<span class=""pos adj"">{adj} <span class=""usage"">called</span>
 <span class=""eng"">Did you call your friend in Canada?</span><br>
 <span class=""spa"">Tom y Mary tienen un niño llamado John.</span><br>
 <span class=""eng"">Tom and Mary have a son named John.</span>",[sound:P2HP6U3LUJZMINOHB3RNCLBRIUVET33T.mp3]
-perdón,m,,"<span class=""pos noun m""> <span class=""usage"">pardon; mercy</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">pardon; mercy</span></span>
+perdón,m,,"<span class=""pos noun m"">{m} <span class=""usage"">pardon; mercy</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">sorry, pardon me (excuse me)</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">pardon; mercy</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">sorry, pardon me (excuse me); sorry, pardon (I didn't hear you)</span></span>","<span class=""spa"">Perdón, es un error mecanográfico.</span><br>
 <span class=""eng"">Sorry, that's a typo.</span><br>
 <span class=""spa"">Perdón. Todo es mi culpa.</span><br>
@@ -4705,8 +4721,8 @@ amable,adj,,,"<span class=""pos adj""> <span class=""usage"">kind, amiable; char
 <span class=""eng"">He is a kind boy.</span><br>
 <span class=""spa"">Él me gusta no porque sea amable, sino porque es honesto.</span><br>
 <span class=""eng"">I like him not because he is kind but because he is honest.</span>",[sound:IZTOOFSW67P54UTNEE2GGVZ6YTHRISTM.mp3]
-carajo,m,"<span class=""syn deck"">pene</span>","<span class=""pos noun m""> <span class=""tag"">[vulgar]:</span><span class=""usage"">penis</span></span>
-<span class=""pos noun m""> <span class=""usage""></span></span>","<span class=""pos noun m"">{m} <span class=""tag"">[vulgar]:</span><span class=""usage"">penis</span></span>
+carajo,m,"<span class=""syn deck"">pene</span>","<span class=""pos noun m"">{m} <span class=""tag"">[vulgar]:</span><span class=""usage"">penis</span></span>
+<span class=""pos interj only-latin-america only-south-america south-america"">{interj} <span class=""tag"">[South America, Northwestern Spain, vulgar]:</span><span class=""usage"">shit!</span></span>","<span class=""pos noun m"">{m} <span class=""tag"">[vulgar]:</span><span class=""usage"">penis</span></span>
 <span class=""pos noun m""> <span class=""usage"">[un carajo] shit [US], jackshit [US], sod all [UK], bugger all [UK]; [al carajo] hell</span></span>
 <span class=""pos interj only-latin-america only-south-america south-america"">{interj} <span class=""tag"">[South America, Northwestern Spain, vulgar]:</span><span class=""usage"">shit!</span></span>
 <span class=""pos interj""> <span class=""tag"">[slang, vulgar]:</span><span class=""usage"">used as an intensifier, similar to the fuck</span></span>","<span class=""spa"">¿Por qué carajo hiciste eso?</span><br>
@@ -4833,7 +4849,8 @@ consejo,m,,,"<span class=""pos noun m""> <span class=""usage"">advice, counsel, 
 <span class=""eng"">She advised him not to buy a used car, but he didn't follow her advice.</span><br>
 <span class=""spa"">Quizás hoy podrías darnos un par de consejos sobre cómo utilizar los diccionarios.</span><br>
 <span class=""eng"">Maybe today you can give us a couple of tips about how to use the dictionaries.</span>",[sound:6ZBAZGIIRFKWWKYXG27WD65UU2TIVUX6.mp3]
-acción,f,"<span class=""syn extra"">hazaña</span>","<span class=""pos noun f""> <span class=""usage"">action, act; action</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">action, act (something done); action (way of motion or functioning); action (fast-paced activity); share (financial instrument)</span></span>
+acción,f,"<span class=""syn extra"">hazaña</span>","<span class=""pos noun f"">{f} <span class=""usage"">action, act; action</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">action</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">action, act (something done); action (way of motion or functioning); action (fast-paced activity); share (financial instrument)</span></span>
 <span class=""pos noun f""> <span class=""tag"">[military]:</span><span class=""usage"">combat, action</span></span>
 <span class=""pos noun f""> <span class=""tag"">[legal]:</span><span class=""usage"">general legal action; lawsuit</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">action (demanding the start of something)</span></span>","<span class=""spa"">¡Feliz día de acción de gracias!</span><br>
@@ -4878,7 +4895,7 @@ cumpleaños,m,,,"<span class=""pos noun m""> <span class=""usage"">birthday</spa
 <span class=""spa"">No sé qué comprarle por su cumpleaños.</span><br>
 <span class=""eng"">I don't know what to buy him for his birthday.</span>",[sound:BJWQ7VWGUUQWTW6A5QWANXGMMLRZZ4KR.mp3]
 joder,verb,"<span class=""syn deck"">molestar, follar, fastidiar, estropear</span><span class=""syn extra"">, chichar, culear, garchar, quimbar</span>","<span class=""pos verb vt"">{vt} <span class=""tag"">[vulgar]:</span><span class=""usage"">to annoy, bug, bother</span></span>
-<span class=""pos verb vr reflexive"">{vr} <span class=""tag"">[vulgar]:</span><span class=""usage"">to become ruined</span></span>","<span class=""pos verb vt"">{vt} <span class=""tag"">[vulgar]:</span><span class=""usage"">to annoy, bug, bother, irritate; to put someone in a difficult situation</span></span>
+<span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">fuck!</span></span>","<span class=""pos verb vt"">{vt} <span class=""tag"">[vulgar]:</span><span class=""usage"">to annoy, bug, bother, irritate; to put someone in a difficult situation</span></span>
 <span class=""pos verb vt el-salvador mexico only-latin-america""> <span class=""tag"">[mildly, vulgar, Mexico, El Salvador]:</span><span class=""usage"">to damage, break, fuck up</span></span>
 <span class=""pos verb vi"">{vi} <span class=""tag"">[vulgar]:</span><span class=""usage"">to tell annoying jokes; to be very annoying, difficult, tiring (be difficult)</span></span>
 <span class=""pos verb vr reflexive"">{vr} <span class=""tag"">[vulgar]:</span><span class=""usage"">to become ruined, fucked (said of a thing)</span></span>
@@ -5246,7 +5263,8 @@ lanzar,verb,"<span class=""syn deck"">arrojar, tirar</span>","<span class=""pos 
 <span class=""eng"">Tom threw his line in and waited for the fish to bite.</span>",[sound:PEXTEDWJGHCLWMEBEGAF7CDAFQT4OHHT.mp3]
 teniente,m/f,,"<span class=""pos noun m_f mf"">{mf} <span class=""usage"">lieutenant; deputy</span></span>","<span class=""pos noun m_f mf"">{mf} <span class=""usage"">lieutenant; deputy; having, holding</span></span>","<span class=""spa"">Teniente, mi paciencia es más corta que mi espada.</span><br>
 <span class=""eng"">Lieutenant, my patience is shorter than my sword.</span>",[sound:DBNIJVQZILOMSYZVOXXOWG7ZFCAPLOBH.mp3]
-permiso,m,"<span class=""syn deck"">consentimiento, licencia</span>","<span class=""pos noun m""> <span class=""usage"">permission; license</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">permission; license; leave (absence from work)</span></span>
+permiso,m,"<span class=""syn deck"">consentimiento, licencia</span>","<span class=""pos noun m"">{m} <span class=""usage"">permission; license</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">excuse me, pardon</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">permission; license; leave (absence from work)</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">excuse me, pardon</span></span>","<span class=""spa"">No te pedí tu permiso.</span><br>
 <span class=""eng"">I didn't ask for your permission.</span><br>
 <span class=""spa"">Permiso, tengo que bajarme en la siguiente parada.</span><br>
@@ -5815,8 +5833,8 @@ azul,adj,,,"<span class=""pos adj"">{adj} <span class=""usage"">blue</span></spa
 <span class=""eng"">She selected a blue dress from the wardrobe.</span><br>
 <span class=""spa"">Las líneas azules en el mapa representan ríos.</span><br>
 <span class=""eng"">The blue lines on the map represent rivers.</span>",[sound:CY5WN3FEP7ZC4HV6UNAGOKXPBQZZLZFI.mp3]
-adentro,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">inside</span></span>
-<span class=""pos noun m"">{m} <span class=""tag"">[in the plural]:</span><span class=""usage"">one's innermost thoughts, deep down</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">inside (especially implying a motion into)</span></span>
+adentro,adv,,"<span class=""pos adv"">{adv} <span class=""usage"">inside (especially implying a motion into)</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">Come in!</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">inside (especially implying a motion into)</span></span>
 <span class=""pos noun m"">{m} <span class=""tag"">[in the plural]:</span><span class=""usage"">one's innermost thoughts, deep down</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">Come in!</span></span>","<span class=""spa"">No estás permitida allá adentro.</span><br>
 <span class=""eng"">You're not allowed in there.</span><br>
@@ -7933,8 +7951,7 @@ apoyar,verb,"<span class=""syn deck"">sostener</span><span class=""syn extra"">,
 <span class=""eng"">We expected him to support us.</span><br>
 <span class=""spa"">Tú te apoyas demasiado en tus padres. Debes ser más independiente.</span><br>
 <span class=""eng"">You lean on your parents too much. You must be more independent.</span>",[sound:WNHKY73OKD66YATA33JCT3OL23PGBIHI.mp3]
-leche,f,"<span class=""syn extra"">esperma, lechota</span>","<span class=""pos noun f""> <span class=""tag"">[food]:</span><span class=""usage"">milk</span></span>
-<span class=""pos noun f""> <span class=""tag"">[slang, vulgar]:</span><span class=""usage"">cum, semen</span></span>","<span class=""pos noun f"">{f} <span class=""tag"">[food]:</span><span class=""usage"">milk</span></span>
+leche,f,"<span class=""syn extra"">esperma, lechota</span>",,"<span class=""pos noun f"">{f} <span class=""tag"">[food]:</span><span class=""usage"">milk</span></span>
 <span class=""pos noun f""> <span class=""tag"">[slang, vulgar]:</span><span class=""usage"">cum, semen</span></span>
 <span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">shit</span></span>","<span class=""spa"">Debería comprar algo de leche.</span><br>
 <span class=""eng"">I should buy some milk.</span><br>
@@ -8234,8 +8251,8 @@ interesado,adj,,"<span class=""pos adj""> <span class=""usage"">acquisitive, gra
 <span class=""eng"">I'm interested in studying French.</span><br>
 <span class=""spa"">Estoy muy interesado en eso.</span><br>
 <span class=""eng"">I'm pretty interested in it.</span>",[sound:DTJPU4OEC3YAFHZCMRZEAGIPRFUPSOFM.mp3]
-coño,m,"<span class=""syn extra"">vulva</span>","<span class=""pos noun m only-spain spain""> <span class=""tag"">[slang, Spain]:</span><span class=""usage"">pussy, cunt</span></span>
-<span class=""pos noun m cuba only-caribbean only-cuba only-latin-america""> <span class=""tag"">[Cuba, Cuban-American, slang]:</span><span class=""usage"">Damn</span></span>","<span class=""pos noun m only-spain spain"">{m} <span class=""tag"">[slang, Spain]:</span><span class=""usage"">pussy, cunt</span></span>
+coño,m,"<span class=""syn extra"">vulva</span>","<span class=""pos noun m only-spain spain"">{m} <span class=""tag"">[slang, Spain]:</span><span class=""usage"">pussy</span></span>
+<span class=""pos interj cuba dominican-republic puerto-rico spain venezuela"">{interj} <span class=""tag"">[Cuba, Spain, Venezuela, Puerto Rico, Dominican Republic]:</span><span class=""usage"">Damn!</span></span>","<span class=""pos noun m only-spain spain"">{m} <span class=""tag"">[slang, Spain]:</span><span class=""usage"">pussy, cunt</span></span>
 <span class=""pos noun m cuba only-caribbean only-cuba only-latin-america""> <span class=""tag"">[Cuba, Cuban-American, slang]:</span><span class=""usage"">Damn; Wow!</span></span>
 <span class=""pos noun m cuba only-caribbean only-cuba only-latin-america""> <span class=""tag"">[Cuba, slang, vulgar]:</span><span class=""usage"">shit, cunt, wow.</span></span>
 <span class=""pos noun m chile only-chile only-latin-america only-south-america""> <span class=""tag"">[Chile, slang, pejorative]:</span><span class=""usage"">Spaniard</span></span>
@@ -11211,7 +11228,8 @@ billete,m,,"<span class=""pos noun m""> <span class=""usage"">banknote, bill (pa
 <span class=""eng"">Did you buy a round trip ticket?</span><br>
 <span class=""spa"">Tengo un billete de ida y vuelta a Osaka.</span><br>
 <span class=""eng"">I have a return ticket to Osaka.</span>",[sound:M3H34QIQZCIRMAMOW5TZGNNP3LYIL4X6.mp3]
-bravo,adj,,"<span class=""pos adj""> <span class=""usage"">angry, furious; bold, courageous</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">angry, furious; bold, courageous; skilful, capable, clever, fine; good, excellent; agitated (sea)</span></span>
+bravo,adj,,"<span class=""pos adj"">{adj} <span class=""usage"">angry; bold</span></span>
+<span class=""pos interj"">{interj} <span class=""tag"">[in general use]:</span><span class=""usage"">well done!</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">angry, furious; bold, courageous; skilful, capable, clever, fine; good, excellent; agitated (sea)</span></span>
 <span class=""pos interj"">{interj} <span class=""tag"">[in general use]:</span><span class=""usage"">well done!, good show!</span></span>
 <span class=""pos interj""> <span class=""tag"">[at the theatre, etc]:</span><span class=""usage"">bravo!</span></span>","<span class=""spa"">Los burros son animales bravos.</span><br>
 <span class=""eng"">Donkeys are tough animals.</span><br>
@@ -11875,12 +11893,12 @@ muchísimo,adv,,"<span class=""pos adv""> <span class=""usage"">superlative of .
 <span class=""eng"">It was very hard for me to find your apartment.</span><br>
 <span class=""spa"">Sus hijos se fueron a Tokio y ella los extraña muchísimo.</span><br>
 <span class=""eng"">Her children have gone to Tokyo and she misses them very much.</span>",[sound:2WBKIGJGG67JTSEPZBZ25GFXNGFDEWEB.mp3]
-pene,m,"<span class=""syn deck"">carajo</span>",,"<span class=""pos noun m""> <span class=""tag"">[anatomy]:</span><span class=""usage"">penis</span></span>","<span class=""spa"">Un pene cortado constituye una pieza importante de evidencia en una violación.</span><br>
-<span class=""eng"">A severed penis constitutes a solid piece of evidence for rape.</span><br>
-<span class=""spa"">Para estallar una muñeca hinchable no necesitas tener un pene demasiado afilado.</span><br>
+pene,m,"<span class=""syn deck"">carajo</span>",,"<span class=""pos noun m""> <span class=""tag"">[anatomy]:</span><span class=""usage"">penis</span></span>","<span class=""spa"">Para estallar una muñeca hinchable no necesitas tener un pene demasiado afilado.</span><br>
 <span class=""eng"">In order to bang a blow-up doll, you shouldn't have too sharp a dick.</span><br>
 <span class=""spa"">El pene es uno de los órganos reproductores masculinos.</span><br>
-<span class=""eng"">The penis is one of the male reproductive organs.</span>",[sound:LOKAU7Q56Q7XX43OJT2GZ3BJGA3SX4GB.mp3]
+<span class=""eng"">The penis is one of the male reproductive organs.</span><br>
+<span class=""spa"">¿Alguna vez has chupado un pene?</span><br>
+<span class=""eng"">Have you ever sucked a penis?</span>",[sound:LOKAU7Q56Q7XX43OJT2GZ3BJGA3SX4GB.mp3]
 cuadro,m,,"<span class=""pos noun m""> <span class=""usage"">square; painting</span></span>","<span class=""pos noun m""> <span class=""usage"">square; painting; picture; infield; squad</span></span>","<span class=""spa"">El cuadro de mi abuelo está colgado en la pared.</span><br>
 <span class=""eng"">My grandfather's picture is on the wall.</span><br>
 <span class=""spa"">El cuadro me trajo muchos recuerdos.</span><br>
@@ -13437,12 +13455,12 @@ biblioteca,f,,,"<span class=""pos noun f""> <span class=""usage"">library; bookc
 <span class=""eng"">The library will issue you a library card.</span><br>
 <span class=""spa"">Él sostenía que sí había devuelto el libro a la biblioteca.</span><br>
 <span class=""eng"">He claimed that he had returned the book to the library.</span>",[sound:O7R33OFWA2V67NOAX5NNS6NFEGWKJEMV.mp3]
-violación,f,,,"<span class=""pos noun f""> <span class=""usage"">violation; rape</span></span>","<span class=""spa"">Un pene cortado constituye una pieza importante de evidencia en una violación.</span><br>
-<span class=""eng"">A severed penis constitutes a solid piece of evidence for rape.</span><br>
-<span class=""spa"">Me siento como si hubiera cometido una violación, aunque sé que eso no tiene sentido.</span><br>
+violación,f,,,"<span class=""pos noun f""> <span class=""usage"">violation; rape</span></span>","<span class=""spa"">Me siento como si hubiera cometido una violación, aunque sé que eso no tiene sentido.</span><br>
 <span class=""eng"">I feel as though I've committed rape, although I know that that makes no sense.</span><br>
 <span class=""spa"">Dan se negó tener algo que ver con la violación de Linda.</span><br>
-<span class=""eng"">Dan denied he had anything to do with Linda's rape.</span>",[sound:ZLETM642CO4GAKKB62EI3GTJ7XQMJNCS.mp3]
+<span class=""eng"">Dan denied he had anything to do with Linda's rape.</span><br>
+<span class=""spa"">Dijeron que fue una clara violación de la ley internacional.</span><br>
+<span class=""eng"">They said it was a clear violation of international law.</span>",[sound:ZLETM642CO4GAKKB62EI3GTJ7XQMJNCS.mp3]
 italiano,m/f,,"<span class=""pos noun m_f mf"">{mf} <span class=""usage"">an Italian; the Italian language</span></span>","<span class=""pos noun m_f mf"">{mf} <span class=""usage"">an Italian; the Italian language</span></span>
 <span class=""pos noun m_f mf chile only-chile only-latin-america only-south-america""> <span class=""tag"">[Chile]:</span><span class=""usage"">hot dog</span></span>
 <span class=""pos adj"">{adj} <span class=""usage"">Italian (from or native to Italy); Italian (pertaining to Italy)</span></span>","<span class=""spa"">Él es profesor de italiano.</span><br>
@@ -13617,8 +13635,7 @@ por fin,adv,,,"<span class=""pos adv""> <span class=""tag"">[idiomatic]:</span><
 <span class=""eng"">I finally gave up smoking.</span><br>
 <span class=""spa"">Tras tantas citas, por fin se besaron.</span><br>
 <span class=""eng"">After so many dates, they finally kissed.</span>",[sound:FY3S6BF6F4Z6N4VNP2EGTLTA4SPGUTZB.mp3]
-colina,f,"<span class=""syn extra"">cerro</span>",,"<span class=""pos noun f""> <span class=""tag"">[geography]:</span><span class=""usage"">hill</span></span>
-<span class=""pos noun f""> <span class=""tag"">[organic compound]:</span><span class=""usage"">choline</span></span>","<span class=""spa"">Su casa se halla en la colina.</span><br>
+colina,f,"<span class=""syn extra"">cerro</span>",,"<span class=""pos noun f""> <span class=""tag"">[geography]:</span><span class=""usage"">hill</span></span>","<span class=""spa"">Su casa se halla en la colina.</span><br>
 <span class=""eng"">Her villa sits on the hill.</span><br>
 <span class=""spa"">Él vive en la cima de la colina.</span><br>
 <span class=""eng"">He lives at the top of the hill.</span><br>
@@ -13724,7 +13741,7 @@ alumno,m/f,"<span class=""syn extra"">discente, escuelero</span>",,"<span class=
 <span class=""eng"">She is proud of her students.</span><br>
 <span class=""spa"">Los alumnos no se acordaron de lo que leyeron en ese libro.</span><br>
 <span class=""eng"">The students didn't remember what they read in that book.</span>",[sound:G7XJFIA43E75U6LI6SHEUNTR4PWX5VFK.mp3]
-socorro,m,"<span class=""syn deck"">suministro</span>","<span class=""pos noun m""> <span class=""usage"">relief (provision); help, aid</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">relief (provision); help, aid</span></span>
+socorro,m,"<span class=""syn deck"">suministro</span>",,"<span class=""pos noun m"">{m} <span class=""usage"">relief (provision); help, aid</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">help!, mayday!</span></span>","<span class=""spa"">Oyó un grito de socorro.</span><br>
 <span class=""eng"">I heard a cry for help.</span>",[sound:UBFW3GITASCACGSTIWBHVH727TVMB6KI.mp3]
 templo,m,,,"<span class=""pos noun m""> <span class=""usage"">temple (a house of worship)</span></span>","<span class=""spa"">Mi pasatiempo es visitar templos antiguos.</span><br>
@@ -13870,8 +13887,9 @@ territorio,m,,,"<span class=""pos noun m""> <span class=""usage"">territory</spa
 <span class=""eng"">Some Canadian territories have almost no people.</span><br>
 <span class=""spa"">Estamos a punto de explorar territorio virgen.</span><br>
 <span class=""eng"">We're about to explore some uncharted territory.</span>",[sound:34ZM5D4Q7OTN5DPYB7BOQE7E335FJYOD.mp3]
-ave,f,"<span class=""syn deck"">pájaro</span>","<span class=""pos noun f""> <span class=""usage"">bird</span></span>
-<span class=""pos noun f chile only-chile only-latin-america only-south-america""> <span class=""tag"">[Chile]:</span><span class=""usage"">fowl, poultry</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">bird</span></span>
+ave,f,"<span class=""syn deck"">pájaro</span>","<span class=""pos noun f"">{f} <span class=""usage"">bird</span></span>
+<span class=""pos noun f chile only-chile only-latin-america only-south-america""> <span class=""tag"">[Chile]:</span><span class=""usage"">fowl</span></span>
+<span class=""pos interj"">{interj} <span class=""tag"">[used when coming into a house]:</span><span class=""usage"">hello</span></span>","<span class=""pos noun f"">{f} <span class=""usage"">bird</span></span>
 <span class=""pos noun f chile only-chile only-latin-america only-south-america""> <span class=""tag"">[Chile]:</span><span class=""usage"">fowl, poultry</span></span>
 <span class=""pos noun f only-spain spain""> <span class=""tag"">[Spain]:</span><span class=""usage"">train</span></span>
 <span class=""pos interj"">{interj} <span class=""tag"">[used when coming into a house]:</span><span class=""usage"">hello, hail</span></span>","<span class=""spa"">A Tom le gusta observar aves.</span><br>
@@ -14816,8 +14834,7 @@ recientemente,adv,,,"<span class=""pos adv""> <span class=""usage"">recently</sp
 <span class=""eng"">Tom has recently been diagnosed with rheumatoid arthritis.</span><br>
 <span class=""spa"">Recientemente, estuve pensando en lo que quiero hacer con mi vida.</span><br>
 <span class=""eng"">Recently, I've been thinking about what I want to do with my life.</span>",[sound:TFJ4XZQYHKIJHEII5SNEBW33CRQSHQ7Z.mp3]
-boleto,m,,"<span class=""pos noun m""> <span class=""usage"">ticket; porcini (Boletus edulis)</span></span>","<span class=""pos noun m""> <span class=""usage"">ticket; porcini (Boletus edulis)</span></span>
-<span class=""pos noun m""> <span class=""tag"">[in general]:</span><span class=""usage"">any bolete mushroom</span></span>","<span class=""spa"">Él no tiene el boleto.</span><br>
+boleto,m,,,"<span class=""pos noun m""> <span class=""usage"">ticket</span></span>","<span class=""spa"">Él no tiene el boleto.</span><br>
 <span class=""eng"">He doesn't have the ticket.</span><br>
 <span class=""spa"">Les dije que me mandaran otro boleto.</span><br>
 <span class=""eng"">I told them to send me another ticket.</span><br>
@@ -15222,7 +15239,8 @@ flota,f,,,"<span class=""pos noun f""> <span class=""usage"">fleet</span></span>
 <span class=""eng"">Didn't you know that oil floats on water?</span><br>
 <span class=""spa"">Los romanos construyeron una flota de trescientos barcos.</span><br>
 <span class=""eng"">The Romans built a fleet of three hundred ships.</span>",[sound:U4ARG6VM5FVJUDG4HON6LSUXNV2NPRUM.mp3]
-igualmente,adv,"<span class=""syn extra"">asimismo</span>","<span class=""pos adv""> <span class=""usage"">equally; likewise</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">equally; likewise</span></span>
+igualmente,adv,"<span class=""syn extra"">asimismo</span>","<span class=""pos adv"">{adv} <span class=""usage"">equally; likewise</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">likewise</span></span>","<span class=""pos adv"">{adv} <span class=""usage"">equally; likewise</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">likewise; the same to you</span></span>","<span class=""spa"">El concepto de resistencia es igualmente aplicable en fluidos.</span><br>
 <span class=""eng"">The concept of resistance is just as applicable in fluids.</span><br>
 <span class=""spa"">Todos los lugares son igualmente distantes del cielo.</span><br>
@@ -15330,7 +15348,8 @@ construcción,f,,,"<span class=""pos noun f""> <span class=""usage"">constructio
 <span class=""eng"">Iron is used in building ships.</span><br>
 <span class=""spa"">¿Cuánto dinero se ha gastado en la construcción del museo?</span><br>
 <span class=""eng"">How much money has been spent on building the museum?</span>",[sound:5NLMBWJG4ZSALPWE3XJDR5RNB5D5JLD2.mp3]
-ánimo,m,,"<span class=""pos noun m""> <span class=""usage"">soul, spirit, mood; vigour</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">soul, spirit, mood; vigour</span></span>
+ánimo,m,,"<span class=""pos noun m"">{m} <span class=""usage"">soul; vigour</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">courage!, cheer up!</span></span>","<span class=""pos noun m"">{m} <span class=""usage"">soul, spirit, mood; vigour</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">courage!, cheer up!, keep your head up! good luck!, chin up!</span></span>","<span class=""spa"">El ánimo de la reunión me sorprendió.</span><br>
 <span class=""eng"">The liveliness of the gathering surprised me.</span><br>
 <span class=""spa"">Ánimo, que ya casi estamos allí.</span><br>
@@ -16337,8 +16356,8 @@ aldea,f,"<span class=""syn deck"">pueblo</span>",,"<span class=""pos noun f""> <
 miércoles,m,,,"<span class=""pos noun m"">{m} <span class=""usage"">Wednesday</span></span>
 <span class=""pos interj"">{interj} <span class=""tag"">[euphemism]:</span><span class=""usage"">Shoot!</span></span>","<span class=""spa"">El próximo miércoles está bien.</span><br>
 <span class=""eng"">Next Wednesday will be fine.</span><br>
-<span class=""spa"">Lunes, martes, miércoles, jueves, viernes, sábado y domingo son los siete días de la semana.</span><br>
-<span class=""eng"">Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday are the seven days of the week.</span><br>
+<span class=""spa"">Una semana esta dividida en siete días: Lunes, martes, miércoles, jueves viernes, sábado y domingo.</span><br>
+<span class=""eng"">A week is divided into seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.</span><br>
 <span class=""spa"">Ella ha estado ausente desde el miércoles pasado.</span><br>
 <span class=""eng"">She has been absent since last Wednesday.</span>",[sound:GP7QG24PBVNOWAJ2TG3MKUPNBYY3OYOP.mp3]
 béisbol,m,,,"<span class=""pos noun m""> <span class=""usage"">baseball (ballgame)</span></span>","<span class=""spa"">¿Estás interesado en el béisbol, Tom?</span><br>
@@ -24066,8 +24085,8 @@ fijo,adj,,"<span class=""pos adj""> <span class=""usage"">fixed; firm</span></sp
 <span class=""eng"">It can't be removed. It's fixed.</span><br>
 <span class=""spa"">Sus ojos se quedaron fijos en la pintura en la pared.</span><br>
 <span class=""eng"">His eyes got stuck on the canvas on the wall.</span>",[sound:DAL2QZBATKHEZQ5BM543GYUPWCW5KM2R.mp3]
-hostia,f,"<span class=""syn deck"">golpe, bofetada</span><span class=""syn extra"">, trastazo</span>","<span class=""pos noun f""> <span class=""tag"">[Catholicism]:</span><span class=""usage"">communion, communion wafer</span></span>
-<span class=""pos noun f only-spain spain""> <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">punch</span></span>","<span class=""pos noun f"">{f} <span class=""tag"">[Catholicism]:</span><span class=""usage"">communion, communion wafer, wafer, host (religious token)</span></span>
+hostia,f,"<span class=""syn deck"">golpe, bofetada</span><span class=""syn extra"">, trastazo</span>","<span class=""pos noun f"">{f} <span class=""tag"">[Catholicism]:</span><span class=""usage"">communion</span></span>
+<span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">jeez</span></span>","<span class=""pos noun f"">{f} <span class=""tag"">[Catholicism]:</span><span class=""usage"">communion, communion wafer, wafer, host (religious token)</span></span>
 <span class=""pos noun f only-spain spain""> <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">punch, slap</span></span>
 <span class=""pos interj only-spain spain"">{interj} <span class=""tag"">[vulgar, Spain]:</span><span class=""usage"">jeez (expression of surprise); fuck!</span></span>","<span class=""spa"">El párroco le dio la hostia al moribundo.</span><br>
 <span class=""eng"">The parson gave the communion wafer to the dying person.</span><br>
@@ -29929,7 +29948,8 @@ fotografiar,verb,"<span class=""syn deck"">sacar</span>",,"<span class=""pos ver
 <span class=""eng"">I'm photographing the woman.</span><br>
 <span class=""spa"">A mi hermano le encanta fotografiar montañas.</span><br>
 <span class=""eng"">My brother loves taking pictures of mountains.</span>",[sound:YP73VNA7Z4CCNA7PT5RJJVZ3HLSY4SCK.mp3]
-clavado,adj,,"<span class=""pos adj""> <span class=""usage"">nailed; identical, spitting</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">nailed; identical, spitting; speechless</span></span>
+clavado,adj,,"<span class=""pos adj"">{adj} <span class=""usage"">nailed; identical, spitting</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">precisely!, exactly!</span></span>","<span class=""pos adj"">{adj} <span class=""usage"">nailed; identical, spitting; speechless</span></span>
 <span class=""pos adj mexico only-latin-america only-mexico""> <span class=""tag"">[Mexico]:</span><span class=""usage"">attached, glued</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">precisely!, exactly!</span></span>
 <span class=""pos noun m"">{m} <span class=""usage"">dive</span></span>","<span class=""spa"">Él es clavado a su padre.</span><br>
@@ -30585,8 +30605,6 @@ púrpura,f,,,"<span class=""pos noun f""> <span class=""usage"">purple (colour)<
 <span class=""eng"">Did you know that if you mixed red and blue paint you obtained purple?</span>",[sound:VQNCKAQ7NZAH6VII3IYRWO45AOOP6P5Y.mp3]
 paracaídas,m,,,"<span class=""pos noun m""> <span class=""usage"">parachute</span></span>","<span class=""spa"">El paracaídas de Tomás no se abrió.</span><br>
 <span class=""eng"">Tom's parachute didn't open.</span><br>
-<span class=""spa"">Una tarde, cogí mi paracaídas y dije: <<Entre una estrella y dos golondrinas>>.</span><br>
-<span class=""eng"">One afternoon, I grabbed my parachute and said, ""Between a star and two swallows.""</span><br>
 <span class=""spa"">Y ahora mi paracaídas cae de sueño en sueño por los espacios de la muerte.</span><br>
 <span class=""eng"">And now my parachutes fall from dream to dream through the spaces of death.</span>",[sound:X4WISB4HATKJ6QA4TF7BLOAWF2TXILTG.mp3]
 limonada,f,,,"<span class=""pos noun f""> <span class=""usage"">lemonade</span></span>","<span class=""spa"">La limonada está demasiado dulce.</span><br>
@@ -30998,7 +31016,8 @@ instructor,m/f,,,"<span class=""pos noun m_f mf"">{mf} <span class=""usage"">ins
 <span class=""spa"">Nosotros llamamos ""Doremon"" a nuestro instructor, porque él es gordo.</span><br>
 <span class=""eng"">We call our teacher ""Doraemon"" because he's fat.</span>",[sound:WI2TFHWD3IZ7P7I6FZF2IUZV762YODW6.mp3]
 conforme,conj,,"<span class=""pos conj"">{conj} <span class=""usage"">as, while</span></span>
-<span class=""pos adj"">{adj} <span class=""usage"">in agreement</span></span>","<span class=""pos conj"">{conj} <span class=""usage"">as, while (varying through time to the same proportion that)</span></span>
+<span class=""pos adj"">{adj} <span class=""usage"">in agreement</span></span>
+<span class=""pos interj"">{interj} <span class=""usage"">roger that</span></span>","<span class=""pos conj"">{conj} <span class=""usage"">as, while (varying through time to the same proportion that)</span></span>
 <span class=""pos adj"">{adj} <span class=""usage"">in agreement; similar; in accordance, deserved; content, satisfied</span></span>
 <span class=""pos noun m"">{m} <span class=""usage"">agreement</span></span>
 <span class=""pos interj"">{interj} <span class=""usage"">roger that</span></span>","<span class=""spa"">Conforme fue creciendo, ella se volvió más y más bella.</span><br>
