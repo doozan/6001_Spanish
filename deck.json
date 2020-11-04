@@ -1,7 +1,7 @@
 {
   "deck": {
     "desc": "The 6001 most frequenly used Spanish words - with audio, comprehensive definitions, and usage sentences",
-    "name": "6001 Spanish Vocab",
+    "name": "Jeff's 6001 Spanish",
     "id": 1091781313372
   },
   "model": {
@@ -93,7 +93,7 @@
     "id": 1587075402744,
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "mod": 1597607615,
+    "mod": 1600885632,
     "name": "6001-Spanish",
     "req": [
       [
@@ -142,7 +142,7 @@
       }
     ],
     "type": 0,
-    "usn": 398,
+    "usn": 458,
     "vers": []
   }
 }

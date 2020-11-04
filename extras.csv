@@ -16,13 +16,11 @@ cuidado,cuidado,interj
 entendido,entendido,interj
 cómo,cómo,interj
 iris,arco iris,noun
-obstante,no obstante,adj
+obstante,no obstante,conj
 +noun:disparo,a punto de,adv
 +adv:inmediatamente,alrededor de,adv
-+noun:francés,tal vez,adv
 +noun:oferta,de acuerdo con,prep
 +prep:de acuerdo con,oye,interj
-+adj:superior,en serio,adv
 +noun:mercado,detrás de,prep
 +noun:oeste,dentro de,prep
 +verb:criar,a ciegas,adv
