@@ -1,40 +1,34 @@
-# items to add or delete from the dictionary
+# remove items or glosses from the dictionary
 #
-# Delete all definitions for a word
+# Delete all glosses for a word
 # - word
 #
-# Delete all definitions for a matching word/pos
+# Delete all glosses for a matching word/pos
 # - word {pos}
 #
-# Delete all definitions for a matching word/pos/note
-# - word {pos} [note]
+# Delete all glosses for a matching word/pos/qualifier
+# - word {pos} [qualifier]
 #
-# Delete specific definitions
-# - word {pos} [note] :: start of definition
+# Delete specific gloss
+# - word {pos} [qualifier] :: start of gloss
 #
-# NOTE that there is a space between - and word, this is necessary
+# note that there is a space between - and word, this is necessary
 # to distinguish from -suffix entries
 #
 - ajustado {adj} :: adjusted
 - ático {adj} :: Attic
-- ático {m} :: Attic 
+- ático {m} :: Attic
 - abuela {f} [Mexico]
 - abuelo {m} :: loose tufts
 - asca {m}
 - atacado {adj}
 - amigo {m} [slang, Río de la Plata] :: penis
 - anillo {m} [mycology]
-- barba {m}
 - boleto {m} :: porcini (Boletus edulis)
 - boleto {m} [in general] :: any bolete mushroom
 - borracha {f}
-- cámara {mf}
-- céntimo
-céntimo {m} :: cent (monetary subdivision)
 - chicle {m} :: chicle
-- ciega {f}
-cojones {mp} [vulgar] :: balls, guts
-- colina {f} [organic compound] :: choline
+- colina {f} [organic chemistry] :: choline
 - considerando {m}
 - cuanto {m}
 - defensa {m}
@@ -52,7 +46,6 @@ cojones {mp} [vulgar] :: balls, guts
 - mueble {m} [Spain, colloquial]
 - naranja {adj} [politics, Spain]
 - naranja {mf} [politics, Spain]
-niñita {meta-noun} :: m:'niñito'
 - par {f}
 - parto {adj} :: Parthian
 - parto {m} :: Parthian
@@ -61,23 +54,10 @@ niñita {meta-noun} :: m:'niñito'
 - pelota {mf}
 - poli {f}
 - primavera {mf}
-- púrpura {adj} [anglicism] :: purple
-púrpura {f} :: purple (colour)
-púrpura {f} [in a poetic sense] :: blood
 - púrpura {f} :: Tyrian purple
 - púrpura {f} [mollusk] :: purple dye murex (Murex brandaris)
 - púrpura {f} [pathology] :: purpura, thrombotic thrombocytopenic purpura
-- resaca {f} [Mexico, US Spanish] :: dry stream bed; resaca
-resaca {f} [Mexico, US Spanish] :: dry stream bed
 - san {f}
 - sapa {f} :: A reduction of must in Ancient Roman cuisine
 - sobornar {v} [formal] :: to suborn
-- soborno {m} [formal] :: subornation
-- temar
-- tercio {m} [bullfighting] :: tercio
-- tomado {adj}
-- tomo {m}
-- tirado {adj}
-- titular {mf}
 - traído {adj}
-varios {adj} :: various ; varied
