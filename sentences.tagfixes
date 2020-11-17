@@ -13,6 +13,7 @@
 bárbara|bárbaro:adj:Barbara:propnoun@800873
 time|timar:verb:Time:propnoun@1334716
 verga:noun:Verga:propnoun@1343317
+taro|tarar:verb:Taro:propnoun
 
 # efectivo is often mistaken as an adj, causing the frequency analyser to guess its
 # pos as adj instead of a noun and then having bad example sentences
@@ -20,7 +21,29 @@ verga:noun:Verga:propnoun@1343317
 # noun uses than adj in the corpus so it will be properly identified as a noun
 efectivo:adj:efectivo:noun@1411080,2580952,1294017,1433312,1418935,7031086,1940020
 
+menciones|mención:noun:menciones|mencionar:verb@506217
+
+dese:noun:dese|dar:verb@2266883
 revé|rever:verb:revele|revelar:verb@1695589
+
+parís|parir:verb:parís:noun
+cole:verb:cole:noun
+
+sacas|saca:noun:sacas|sacar:verb@564553
+
+taradas|tarar:verb:_bad:_bad@5025143
+
+morado|morar:verb:_bad:_bad
+atropellado:adj:_bad:_bad
+
+cesar:verb:cesar:propnoun@2943136
+
+despido:noun:despido|despedir:verb@1868801
+
+
+marinara|marinar:verb:marinara:noun
+
+amara|amarar:verb:amara|amar:verb@1401076
 
 miércoles:interj:_bad:_bad@1704725
 
@@ -38,14 +61,16 @@ diablos|diablo:noun:diablos:adv
 abras|abra:noun:abras|abrir:verb
 amas|amo:noun:amas|amar:verb
 aprecio:noun:aprecio|apreciar:verb
+cojo:noun:cojo|coger:verb
 coma:noun:coma|comer:verb
 comas|coma:noun:comas|comer:verb
-cojo:noun:cojo|coger:verb
+corro:noun:corro|correr:verb
 detente:noun:detente|detener:verb
 dejes|dejo:noun:dejes|dejar:verb
 encargo:noun:encargo|encargar:verb
 escuchas|escucha:noun:escuchas|escuchar:verb
 esperas|espera:noun:esperas|esperar:verb
+gira:noun:gira|girar:verb
 hablas|habla:noun:hablas|hablar:verb
 lamento:noun:lamento|lamentar:verb
 odio:noun:odio|odiar:verb
