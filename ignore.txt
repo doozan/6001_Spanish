@@ -16,7 +16,11 @@ bob
 brandy
 bridge
 cal
+california
+can
 carmen
+catalina
+césar
 chef
 chip
 coca-cola
@@ -58,6 +62,7 @@ jersey
 jet
 ji
 jorge
+k
 karaoke
 karate
 kayak
@@ -65,11 +70,13 @@ klingon
 klingons
 lamer
 lamers
+lars
 laurel
 lidia
 like
 lisa
 lola
+look
 luis
 maría
 marta
@@ -82,6 +89,7 @@ nevada
 newton
 no
 online
+parís
 pizza
 pizzas
 plasma
@@ -93,6 +101,7 @@ pub
 record
 rifle
 ring
+rob
 robot
 robots
 rock
@@ -105,6 +114,7 @@ sexy
 sheriff
 sheriffs
 show
+simón
 software
 spa
 stop
@@ -119,6 +129,7 @@ tina
 tour
 tv
 vegas
+vera
 vice
 video
 videos

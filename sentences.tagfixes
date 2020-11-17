@@ -13,6 +13,7 @@
 bárbara|bárbaro:adj:Barbara:propnoun@800873
 time|timar:verb:Time:propnoun@1334716
 verga:noun:Verga:propnoun@1343317
+taro|tarar:verb:Taro:propnoun
 
 # efectivo is often mistaken as an adj, causing the frequency analyser to guess its
 # pos as adj instead of a noun and then having bad example sentences
@@ -21,6 +22,12 @@ verga:noun:Verga:propnoun@1343317
 efectivo:adj:efectivo:noun@1411080,2580952,1294017,1433312,1418935,7031086,1940020
 
 revé|rever:verb:revele|revelar:verb@1695589
+
+dese:noun:dese|dar:verb@2266883
+
+sacas|saca:noun:sacas|sacar:verb@564553
+
+taradas|tarar:part-verb:_bad:_bad@5025143
 
 miércoles:interj:_bad:_bad@1704725
 
