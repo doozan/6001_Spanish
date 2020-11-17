@@ -16,7 +16,9 @@ bob
 brandy
 bridge
 cal
+california
 carmen
+césar
 chef
 chip
 coca-cola
@@ -65,6 +67,7 @@ klingon
 klingons
 lamer
 lamers
+lars
 laurel
 lidia
 like
@@ -77,6 +80,7 @@ mas
 mio
 mm
 nasa
+nazi
 nerd
 nevada
 newton
@@ -93,6 +97,7 @@ pub
 record
 rifle
 ring
+rob
 robot
 robots
 rock
