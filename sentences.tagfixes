@@ -15,6 +15,9 @@ time|timar:verb:Time:propnoun@1334716
 verga:noun:Verga:propnoun@1343317
 taro|tarar:verb:Taro:propnoun
 
+varios:art:varios|vario:adj
+varias|varios:art:varios|vario:adj
+
 # efectivo is often mistaken as an adj, causing the frequency analyser to guess its
 # pos as adj instead of a noun and then having bad example sentences
 # corrected here instead of just using forced sentences to ensure there are more
@@ -78,14 +81,15 @@ esperas|espera:noun:esperas|esperar:verb
 gira:noun:gira|girar:verb
 hablas|habla:noun:hablas|hablar:verb
 lamento:noun:lamento|lamentar:verb
+lloro:noun:lloro|llorar:verb
+mata:noun:mata|matar:verb
+matas|mata:noun:matas|matar:verb
 odio:noun:odio|odiar:verb
 pasas|pasa:noun:pasas|pasar:verb
 tenia:noun:tenia|tener:verb
 tratas|trata:noun:tratas|tratar:verb
 vayas|vaya:noun:vayas|ir:verb
 verme:noun:verme|ver:verb
-mata:noun:mata|matar:verb
-matas|mata:noun:matas|matar:verb
 
 # This is a name and should just be ignored
 taro|tarar:verb:_bad:_bad
