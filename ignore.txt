@@ -23,6 +23,7 @@ catalina
 césar
 chef
 chip
+cia
 coca-cola
 cole
 comic
@@ -75,6 +76,7 @@ laurel
 lidia
 like
 lisa
+logan
 lola
 look
 luis
@@ -84,6 +86,7 @@ marines
 marta
 mas
 mio
+miss
 mm
 nasa
 nerd
@@ -117,6 +120,7 @@ sheriff
 sheriffs
 show
 simón
+so
 software
 spa
 stop
