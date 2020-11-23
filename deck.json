@@ -93,7 +93,7 @@
     "id": 1587075402744,
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "mod": 1600885632,
+    "mod": 1606664229,
     "name": "6001-Spanish",
     "req": [
       [
@@ -132,7 +132,7 @@
       {
         "name": "Reverse",
         "ord": 1,
-        "qfmt": "{{#ShortDef}}{{ShortDef}}{{/ShortDef}}\n{{^ShortDef}}{{Definition}}{{/ShortDef}}\n<div class=\"pos\">{{Part of Speech}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[not {{Synonyms}}]</div>{{/Synonyms}}\n",
+        "qfmt": "<div id=\"shortdef\">\n{{#ShortDef}}{{ShortDef}}{{/ShortDef}}\n{{^ShortDef}}{{Definition}}{{/ShortDef}}\n</div>\n<div class=\"pos\">{{Part of Speech}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[not {{Synonyms}}]</div>{{/Synonyms}}\n\n<script type=\"text/javascript\">\n    seconds = Math.floor(new Date().getTime() / 10000);\n    var fonts = [\"serif\", \"sans-serif\", \"monospace\", \"fantasy\"];\n    var positions = [\"left\", \"center\", \"right\"];\n    font = fonts[seconds % fonts.length];\n    position = positions[seconds % positions.length];\n    el = document.getElementById('shortdef');\n    el.style.fontFamily = font;\n    el.style.textAlign = position;\n</script>",
         "afmt": "<div style=\"display:none;\">{{Audio}}</div>\n\n{{Definition}}\n<div class=\"pos\">{{Part of Speech}} {{Rank}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[not {{Synonyms}}]</div>\n{{/Synonyms}}\n\n<hr id=answer>\n\n{{Display}}\n<br><br>\n{{Sentences}}",
         "did": null,
         "bqfmt": "",
@@ -142,7 +142,7 @@
       }
     ],
     "type": 0,
-    "usn": 458,
+    "usn": 632,
     "vers": []
   }
 }
