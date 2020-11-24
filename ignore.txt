@@ -31,6 +31,7 @@ cookie
 country
 cristina
 cuba
+curry
 diana
 digital
 do
@@ -103,6 +104,7 @@ pony
 pop
 pro
 pub
+rap
 record
 rifle
 ring
@@ -115,6 +117,7 @@ romero
 sami
 san
 set
+sexi
 sexy
 sheriff
 sheriffs
@@ -139,6 +142,7 @@ vera
 vice
 video
 videos
+vito
 web
 yoga
 yuan
