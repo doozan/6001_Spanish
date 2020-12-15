@@ -15,94 +15,94 @@ veras,de veras,adv
 cuidado,cuidado,interj
 entendido,entendido,interj
 cómo,cómo,interj
-iris,arco iris,noun
+iris,arco iris,n
 obstante,no obstante,conj
-+noun:disparo,a punto de,adv
++n:disparo,a punto de,adv
 +adv:inmediatamente,alrededor de,adv
-+noun:oferta,de acuerdo con,prep
++n:oferta,de acuerdo con,prep
 +prep:de acuerdo con,oye,interj
-+noun:mercado,detrás de,prep
-+noun:oeste,dentro de,prep
-+verb:criar,a ciegas,adv
-+noun:humor,en realidad,adv
++n:mercado,detrás de,prep
++n:oeste,dentro de,prep
++v:criar,a ciegas,adv
++n:humor,en realidad,adv
 +adj:impresionante,a pesar de,prep
 +adj:molesto,en contra de,prep
 +adj:celoso,rara vez,adv
-+noun:excusa,encima de,prep
-+noun:tecnología,a solas,adv
-+noun:mina,en caso de,conj
-+noun:presencia,a causa de,prep
++n:excusa,encima de,prep
++n:tecnología,a solas,adv
++n:mina,en caso de,conj
++n:presencia,a causa de,prep
 +adj:agradecido,debido a,prep
 +adj:adorable,de buena gana,adv
 +adj:estadounidense,gracias a,prep
-+verb:aprobar,en lugar de,prep
-+noun:barra,por desgracia,adv
-+noun:italiano,a menos que,conj
-+noun:dibujo,por fin,adv
++v:aprobar,en lugar de,prep
++n:barra,por desgracia,adv
++n:italiano,a menos que,conj
++n:dibujo,por fin,adv
 +adj:acostumbrado,ya no,adv
 +adj:actual,en vez de,prep
-+noun:asco,a tiempo,adv
-+noun:ceremonia,venga,interj
++n:asco,a tiempo,adv
++n:ceremonia,venga,interj
 +adv:literalmente,a partir de,prep
-+adj:callado,tener lugar,verb
-+noun:alternativa,por lo menos,adv
++adj:callado,tener lugar,v
++n:alternativa,por lo menos,adv
 +adj:japón,vaya,interj
-+noun:perfil,a lo lejos,adv
-+verb:interpretar,de vez en cuando,adv
++n:perfil,a lo lejos,adv
++v:interpretar,de vez en cuando,adv
 +adj:izquierdo,ya que,conj
-+noun:producción,por lo general,adv
-+noun:cocinero,ahora mismo,adv
-+noun:pirata,pasado mañana,adv
-+noun:rumbo,a medida que,conj
-+noun:refuerzo,al fin y al cabo,phrase
-+noun:apariencia,ánimo,interj
-+noun:medalla,así como,conj
-+noun:autor,poco a poco,adv
++n:producción,por lo general,adv
++n:cocinero,ahora mismo,adv
++n:pirata,pasado mañana,adv
++n:rumbo,a medida que,conj
++n:refuerzo,al fin y al cabo,phrase
++n:apariencia,ánimo,interj
++n:medalla,así como,conj
++n:autor,poco a poco,adv
 +adj:cargado,a veces,adv
-+verb:determinar,por suerte,adv
-+noun:ganancia,cara a cara,adv
-+noun:retiro,en línea,adj
-+noun:engaño,vale,interj
-+verb:señalar,luego de,prep
-+noun:civilización,a favor de,adv
-+verb:manipular,formar parte,verb
-+noun:circuito,de todos modos,adv
-+noun:freno,a juzgar por,prep
-+noun:vagina,cuanto antes,adv
-+verb:distinguir,a toda costa,adv
-+noun:falda,de verdad,adv
-+noun:cerradura,a tientas,adv
-+noun:condón,al final,adv
-+noun:taco,de nuevo,adv
-+noun:seno,siempre y cuando,prep
++v:determinar,por suerte,adv
++n:ganancia,cara a cara,adv
++n:retiro,en línea,adj
++n:engaño,vale,interj
++v:señalar,luego de,prep
++n:civilización,a favor de,adv
++v:manipular,formar parte,v
++n:circuito,de todos modos,adv
++n:freno,a juzgar por,prep
++n:vagina,cuanto antes,adv
++v:distinguir,a toda costa,adv
++n:falda,de verdad,adv
++n:cerradura,a tientas,adv
++n:condón,al final,adv
++n:taco,de nuevo,adv
++n:seno,siempre y cuando,prep
 +adj:estrecho,por separado,adv
-+noun:fruto,pese a,prep
-+noun:invasión,al principio,adv
++n:fruto,pese a,prep
++n:invasión,al principio,adv
 +adj:portátil,en cuanto a,prep
-+noun:ayuntamiento,en aquel entonces,adv
-+noun:veredicto,de pronto,adv
-+noun:marea,de modo que,conj
++n:ayuntamiento,en aquel entonces,adv
++n:veredicto,de pronto,adv
++n:marea,de modo que,conj
 +adj:sangriento,de aquí en adelante,adv
-+verb:estrenar,dar paso,verb
++v:estrenar,dar paso,v
 +adj:cancelado,a la vez,adv
-+noun:tronco,antes que nada,adv
++n:tronco,antes que nada,adv
 +adj:suicida,al pie de la letra,adv
-+noun:cuna,de mala gana,adv
-+noun:nevera,a eso de,prep
-+noun:buzón,por mucho que,conj
++n:cuna,de mala gana,adv
++n:nevera,a eso de,prep
++n:buzón,por mucho que,conj
 +adj:ejecutado,por ejemplo,adv
 +adj:maligno,a oscuras,adv
 +adj:homosexual,o sea,adv
-+verb:coquetear,al fin,adv
-+verb:componer,mientras que,conj
-+verb:reconstruir,en un abrir y cerrar de ojos,adv
-+verb:expandir,enfrente de,prep
-+noun:recado,de sobra,adv
-+noun:muslo,desde luego,adv
-+noun:ramo,de repuesto,adj
-+noun:ganso,de por vida,adv
-+noun:detector,de antemano,adv
-+noun:vitamina,como mucho,adv
-+verb:ahorcar,aún así,adv
-+verb:anhelar,algunas veces,adv
-+verb:imitar,a fin de cuentas,phrase
++v:coquetear,al fin,adv
++v:componer,mientras que,conj
++v:reconstruir,en un abrir y cerrar de ojos,adv
++v:expandir,enfrente de,prep
++n:recado,de sobra,adv
++n:muslo,desde luego,adv
++n:ramo,de repuesto,adj
++n:ganso,de por vida,adv
++n:detector,de antemano,adv
++n:vitamina,como mucho,adv
++v:ahorcar,aún así,adv
++v:anhelar,algunas veces,adv
++v:imitar,a fin de cuentas,phrase

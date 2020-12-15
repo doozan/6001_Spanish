@@ -6,36 +6,36 @@
 # if @ids are ommitted, the substitutions will be applied to all matching sentences
 #
 # if the |lemma is the same as the word, it can be ommitted:
-# calvo:noun:calvo:adj
+# calvo:n:calvo:adj
 #
 
 # Proper nouns that are mistaken as something else
 bárbara|bárbaro:adj:Barbara:propnoun@800873
-time|timar:verb:Time:propnoun@1334716
-verga:noun:Verga:propnoun@1343317
-taro|tarar:verb:Taro:propnoun
+time|timar:v:Time:propnoun@1334716
+verga:n:Verga:propnoun@1343317
+taro|tarar:v:Taro:propnoun
 
 # efectivo is often mistaken as an adj, causing the frequency analyser to guess its
 # pos as adj instead of a noun and then having bad example sentences
 # corrected here instead of just using forced sentences to ensure there are more
 # noun uses than adj in the corpus so it will be properly identified as a noun
-efectivo:adj:efectivo:noun@1411080,2580952,1294017,1433312,1418935,7031086,1940020
+efectivo:adj:efectivo:n@1411080,2580952,1294017,1433312,1418935,7031086,1940020
 
 
-revé|rever:verb:revele|revelar:verb@1695589
-amara|amarar:verb:amara|amar:verb@1401076
+revé|rever:v:revele|revelar:v@1695589
+amara|amarar:v:amara|amar:v@1401076
 
-taradas|tarar:verb:taradas|tarado:adj@5025143
-cesar:verb:cesar:propnoun@2943136
+taradas|tarar:v:taradas|tarado:adj@5025143
+cesar:v:cesar:propnoun@2943136
 
-re:noun:re:adj@5124620
+re:n:re:adj@5124620
 
-dese:noun:dese|dar:verb@2266883
-despido:noun:despido|despedir:verb@1868801
-menciones|mención:noun:menciones|mencionar:verb@506217
-sacas|saca:noun:sacas|sacar:verb@564553
+dese:n:dese|dar:v@2266883
+despido:n:despido|despedir:v@1868801
+menciones|mención:n:menciones|mencionar:v@506217
+sacas|saca:n:sacas|sacar:v@564553
 
-porro:adj:porro:noun@436220
+porro:adj:porro:n@436220
 
 miércoles:interj:_bad:_bad@1704725
 
@@ -44,65 +44,65 @@ miércoles:interj:_bad:_bad@1704725
 
 
 
-morado|morar:verb:_bad:_bad
-morada|morar:verb:_bad:_bad
+morado|morar:v:_bad:_bad
+morada|morar:v:_bad:_bad
 atropellado:adj:_bad:_bad
 
-parís|parir:verb:parís:propnoun
-cole:verb:cole:noun
+parís|parir:v:parís:propnoun
+cole:v:cole:n
 
-creas|crear:verb:creas|creer:verb
-crees|crear:verb:crees|creer:verb
+creas|crear:v:creas|creer:v
+crees|crear:v:crees|creer:v
 
-marinara|marinar:verb:marinara:noun
+marinara|marinar:v:marinara:n
 
 varios:art:varios|vario:adj
 varias|varios:art:varios|vario:adj
 
-mamíferos|mamífero:adj:mamíferos|mamífero:noun
-traficante:adj:traficante:noun
+mamíferos|mamífero:adj:mamíferos|mamífero:n
+traficante:adj:traficante:n
 
-tocado:adj:tocado|tocar:verb
+tocado:adj:tocado|tocar:v
 
-cabezota:noun:cabezota:adj
-calvo:noun:calvo:adj
+cabezota:n:cabezota:adj
+calvo:n:calvo:adj
 
-demonios|demonio:noun:demonios:adv
-diablos|diablo:noun:diablos:adv
+demonios|demonio:n:demonios:adv
+diablos|diablo:n:diablos:adv
 
-abras|abra:noun:abras|abrir:verb
-amas|amo:noun:amas|amar:verb
-aprecio:noun:aprecio|apreciar:verb
-cojo:noun:cojo|coger:verb
-coma:noun:coma|comer:verb
-comas|coma:noun:comas|comer:verb
-corro:noun:corro|correr:verb
-detente:noun:detente|detener:verb
-dejes|dejo:noun:dejes|dejar:verb
-encargo:noun:encargo|encargar:verb
-enseñas|enseña:noun:enseñas|enseñar:verb
-enseña:noun:enseña|enseñar:verb
-escuchas|escucha:noun:escuchas|escuchar:verb
-esperas|espera:noun:esperas|esperar:verb
-gira:noun:gira|girar:verb
-hablas|habla:noun:hablas|hablar:verb
-lamento:noun:lamento|lamentar:verb
-lloro:noun:lloro|llorar:verb
-mata:noun:mata|matar:verb
-matas|mata:noun:matas|matar:verb
-odio:noun:odio|odiar:verb
-pasas|pasa:noun:pasas|pasar:verb
-tenia:noun:tenia|tener:verb
-tratas|trata:noun:tratas|tratar:verb
-vayas|vaya:noun:vayas|ir:verb
-verme:noun:verme|ver:verb
+abras|abra:n:abras|abrir:v
+amas|amo:n:amas|amar:v
+aprecio:n:aprecio|apreciar:v
+cojo:n:cojo|coger:v
+coma:n:coma|comer:v
+comas|coma:n:comas|comer:v
+corro:n:corro|correr:v
+detente:n:detente|detener:v
+dejes|dejo:n:dejes|dejar:v
+encargo:n:encargo|encargar:v
+enseñas|enseña:n:enseñas|enseñar:v
+enseña:n:enseña|enseñar:v
+escuchas|escucha:n:escuchas|escuchar:v
+esperas|espera:n:esperas|esperar:v
+gira:n:gira|girar:v
+hablas|habla:n:hablas|hablar:v
+lamento:n:lamento|lamentar:v
+lloro:n:lloro|llorar:v
+mata:n:mata|matar:v
+matas|mata:n:matas|matar:v
+odio:n:odio|odiar:v
+pasas|pasa:n:pasas|pasar:v
+tenia:n:tenia|tener:v
+tratas|trata:n:tratas|tratar:v
+vayas|vaya:n:vayas|ir:v
+verme:n:verme|ver:v
 
 # This is a name and should just be ignored
-taro|tarar:verb:_bad:_bad
+taro|tarar:v:_bad:_bad
 
-acerca|acercar:verb:acerca:adv
+acerca|acercar:v:acerca:adv
 
-maquina|maquinar:verb:maquina:noun
-pete|petar:verb:pete:noun
+maquina|maquinar:v:maquina:n
+pete|petar:v:pete:n
 
-arrepentir:verb:arrepentirse:verb
+arrepentir:v:arrepentirse:v
