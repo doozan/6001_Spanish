@@ -28,7 +28,8 @@ amara|amarar:v:amara|amar:v@1401076
 taradas|tarar:v:taradas|tarado:adj@5025143
 cesar:v:cesar:propnoun@2943136
 
-re:n:re:adj@5124620
+re:adj:re:adv
+re:n:re:adv@5124620
 
 dese:n:dese|dar:v@2266883
 despido:n:despido|despedir:v@1868801
@@ -66,6 +67,7 @@ tocado:adj:tocado|tocar:v
 
 cabezota:n:cabezota:adj
 calvo:n:calvo:adj
+sumo:n:sumo:adj@2866009,727551,732490,5201634,5201325,5201327
 
 demonios|demonio:n:demonios:adv
 diablos|diablo:n:diablos:adv
