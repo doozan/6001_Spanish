@@ -29,7 +29,7 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
       --dump-sentence-ids spanish_custom/sentences.preferred \
       --dump-notes spanish_custom/notes.csv \
       --dump-credits spanish_custom/CREDITS \
-      --dump-removed removed.txt \
+      --dump-changes changes.txt \
       --anki "User 1" \
       jeffs_deck || return 1
 # note: this is the exact command used by the build script, you probably don't want to use --low-mem, --dump-removed or --anki parameters
