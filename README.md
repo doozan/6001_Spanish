@@ -24,8 +24,11 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
       --deckinfo spanish_custom/deck.json \
       --limit 6001 \
       -w spanish_data/frequency.csv \
+      -w spanish_custom/replacements.csv \
       -w spanish_custom/extras.csv \
+      -w spanish_custom/exclude_common.csv \
       -w spanish_custom/excludes.csv \
+      --allow-flag LITERAL \
       --dump-sentence-ids spanish_custom/sentences.preferred \
       --dump-notes spanish_custom/notes.csv \
       --dump-credits spanish_custom/CREDITS \
