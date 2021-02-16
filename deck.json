@@ -93,7 +93,7 @@
     "id": 1587075402744,
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "mod": 1612103876,
+    "mod": 1613500496,
     "name": "6001-Spanish",
     "req": [
       [
@@ -122,7 +122,7 @@
         "name": "Forward",
         "ord": 0,
         "qfmt": "<div class=\"pos\">{{Part of Speech}}</div>\n<div style=\"display:none;\">{{Audio}}</div>\n",
-        "afmt": "{{Display}}\n<div class=\"pos\">{{Part of Speech}} {{Rank}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[also {{Synonyms}}]</div>\n{{/Synonyms}}\n\n<hr id=answer>\n\n{{Definition}}\n<br><br>\n{{Sentences}}",
+        "afmt": "{{Display}}\n<div class=\"pos\">{{Part of Speech}} {{Rank}}</div>\n{{#Synonyms}}<div class=\"synonyms\">[also {{Synonyms}}]</div>\n{{/Synonyms}}\n\n<hr id=answer>\n\n{{Definition}}\n<br><br>\n{{Sentences}}\n\n<script type=\"text/javascript\">\n    for (let el of document.querySelectorAll('.unobscured')) el.style.display = 'initial';\n</script>",
         "did": null,
         "bqfmt": "",
         "bafmt": "",
@@ -142,7 +142,7 @@
       }
     ],
     "type": 0,
-    "usn": 792,
+    "usn": -1,
     "vers": [],
     "latexsvg": false
   }
