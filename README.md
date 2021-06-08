@@ -6,6 +6,9 @@ This data is used to configure building my 6001 Spanish Vocab anki deck.
 
 ## Checkout tools and data
 ```bash
+# install genanki from source until something later than 0.11.0 is published
+pip3 install git+https://github.com/kerrickstaley/genanki.git
+
 git clone https://github.com/doozan/spanish_tools
 git clone https://github.com/doozan/spanish_data
 git clone https://github.com/doozan/6001_Spanish spanish_custom
@@ -35,5 +38,5 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
       --dump-changes changes.txt \
       --anki "User 1" \
       jeffs_deck || return 1
-# note: this is the exact command used by the build script, you probably don't want to use --low-mem, --dump-removed or --anki parameters
+# note: this is the exact command used by the build script, you probably don't want to use --low-mem, --dump-changes or --anki parameters
 ```
