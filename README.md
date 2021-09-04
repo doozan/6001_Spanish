@@ -21,19 +21,20 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
       --custom-dir spanish_custom \
       --media ../cached.media \
       --short-defs spanish_custom/shortdefs.csv \
-      --deckinfo spanish_custom/deck.json \
-      --limit 6001 \
+      --model spanish_custom/card_model.json \
+      --deck-guid 1091781313372 \
+      --deck-name "Jeff's Spanish::6001" \
+      --deck-desc "The 6001 most frequently used Spanish words - with audio, comprehensive definitions, and usage sentences. Compiled by Jeff Doozan" \
       -w spanish_data/frequency.csv \
       -w spanish_custom/replacements.csv \
       -w spanish_custom/extras.csv \
       -w spanish_custom/exclude_common.csv \
       -w spanish_custom/excludes.csv \
+      --limit 6001 \
       --allow-flag LITERAL \
       --dump-sentence-ids spanish_custom/sentences.preferred \
       --dump-notes spanish_custom/notes.csv \
       --dump-credits spanish_custom/CREDITS \
-      --dump-changes changes.txt \
-      --anki "User 1" \
       jeffs_deck || return 1
-# note: this is the exact command used by the build script, you probably don't want to use --low-mem, --dump-removed or --anki parameters
+# note: this is the exact command used by the build script, you probably don't want to use --low-mem
 ```
