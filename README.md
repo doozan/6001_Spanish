@@ -13,7 +13,6 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
 ### Build the deck
 ```bash
     python3 -m spanish_tools.build_deck \
-      --low-mem \
       --allforms spanish_data/es_allforms.csv \
       --dictionary spanish_data/es-en.data \
       --dictionary-custom spanish_custom/es-en.custom \
@@ -36,5 +35,4 @@ git clone https://github.com/doozan/6001_Spanish spanish_custom
       --dump-notes spanish_custom/notes.csv \
       --dump-credits spanish_custom/CREDITS \
       jeffs_deck || return 1
-# note: this is the exact command used by the build script, you probably don't want to use --low-mem
 ```
