@@ -11,6 +11,7 @@ bárbara
 be
 beatle
 bikini
+bla
 blog
 bob
 brandy
@@ -19,6 +20,7 @@ cal
 california
 can
 carmen
+castro
 catalina
 césar
 chef
@@ -36,8 +38,11 @@ diana
 digital
 do
 ego
+efe
 eh
 email
+et
+eta
 ex
 ey
 fan
@@ -70,6 +75,7 @@ karate
 kayak
 klingon
 klingons
+lady
 lamer
 lamers
 lars
@@ -85,10 +91,12 @@ maría
 marine
 marines
 marta
+martín
 mas
 mio
 miss
 mm
+navarro
 nasa
 nerd
 nevada
@@ -104,6 +112,7 @@ pony
 pop
 pro
 pub
+ramón
 rap
 record
 rifle
@@ -137,6 +146,8 @@ tickets
 tina
 tour
 tv
+valencia
+vargas
 vegas
 vera
 vice
