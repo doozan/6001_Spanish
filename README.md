@@ -1,7 +1,5 @@
 This data is used to configure building my 6001 Spanish Vocab anki deck.
 
-### Interesting files:
-
 # Building the deck
 
 ## Checkout tools and data
