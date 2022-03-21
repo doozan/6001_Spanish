@@ -10,10 +10,10 @@
 #
 
 # Proper nouns that are mistaken as something else
-bárbara|bárbaro:adj:Barbara:propnoun@800873
-time|timar:v:Time:propnoun@1334716
-verga:n:Verga:propnoun@1343317
-taro|tarar:v:Taro:propnoun
+bárbara|bárbaro:adj:Barbara:prop@800873
+time|timar:v:Time:prop@1334716
+verga:n:Verga:prop@1343317
+taro|tarar:v:Taro:prop
 
 # efectivo is often mistaken as an adj, causing the frequency analyser to guess its
 # pos as adj instead of a noun and then having bad example sentences
@@ -26,8 +26,8 @@ revé|rever:v:revele|revelar:v@1695589
 amara|amarar:v:amara|amar:v@1401076
 sumas|sumir:v:sumas|sumar:v
 
-taradas|tarar:v:taradas|tarado:adj@5025143
-cesar:v:cesar:propnoun@2943136
+#taradas|tarar:v:taradas|tarado:adj@5025143
+cesar:v:cesar:prop@2943136
 
 re:adj:re:adv
 re:n:re:adv@5124620
@@ -41,17 +41,15 @@ porro:adj:porro:n@436220
 
 miércoles:interj:_bad:_bad@1704725
 
+# part-verb also has part-adj, so just flag it as bad
+# instead of transforming it
+morado|morar:verb:_bad:_bad
+morada|morar:verb:_bad:_bad
 
-
-
-
-
-morado|morar:v:_bad:_bad
-morada|morar:v:_bad:_bad
 atropellado:adj:_bad:_bad
 
-parís|parir:v:parís:propnoun
-cole:v:cole:n
+parís|parir:v:parís:prop
+cole|colar:v:cole:n
 
 creas|crear:v:creas|creer:v
 crees|crear:v:crees|creer:v
@@ -74,7 +72,7 @@ demonios|demonio:n:demonios:adv
 diablos|diablo:n:diablos:adv
 
 abras|abra:n:abras|abrir:v
-amas|amo:n:amas|amar:v
+amas|ama:n:amas|amar:v
 aprecio:n:aprecio|apreciar:v
 cojo:n:cojo|coger:v
 coma:n:coma|comer:v
@@ -95,17 +93,76 @@ mata:n:mata|matar:v
 matas|mata:n:matas|matar:v
 odio:n:odio|odiar:v
 pasas|pasa:n:pasas|pasar:v
-tenia:n:tenia|tener:v
 tratas|trata:n:tratas|tratar:v
 vayas|vaya:n:vayas|ir:v
 verme:n:verme|ver:v
-
-# This is a name and should just be ignored
-taro|tarar:v:_bad:_bad
 
 acerca|acercar:v:acerca:adv
 
 maquina|maquinar:v:maquina:n
 pete|petar:v:pete:n
 
-arrepentir:v:arrepentirse:v
+
+# Words where Freeling and Wikipedia disagree about the proper POS
+
+alguna|alguno:art:alguna|alguno:determiner
+algunas|alguno:art:algunas|alguno:determiner
+#alguno:art:alguno:determiner
+algunos|alguno:art:algunos|algunos:determiner
+
+aquel:art:aquel:determiner
+
+#cuanta|cuanto:art:cuanta|cuanto:determiner
+cuantas|cuanto:art:cuantas|cuanto:determiner
+cuánto:art:cuánto|cuanto:determiner
+cuantos|cuanto:art:cuantos|cuanto:determiner
+
+cuyo:pron:cuyo:determiner
+dónde:pron:dónde:adv
+ese:art:ese:determiner
+
+esta|este:art:esta|este:determiner
+estas|este:art:estas|este:determiner
+este:art:este:determiner
+#esto|este:art:esto|este:determiner
+estos|este:art:estos|este:determiner
+
+mía:adj:mía:determiner
+mi:art:mi:determiner
+mío:adj:mío:determiner
+
+mucha|mucho:art:mucha|mucho:determiner
+muchas|mucho:art:muchas|mucho:determiner
+muchos|mucho:art:muchos|mucho:determiner
+
+ninguna|ninguno:art:ninguna|ninguno:determiner
+
+nuestra|nuestro:art:nuestra|nuestro:determiner
+nuestras|nuestro:art:nuestras|nuestro:determiner
+nuestro:art:nuestro:determiner
+nuestros|nuestro:art:nuestros|nuestro:determiner
+
+otra|otro:art:otra|otro:determiner
+otras|otro:art:otras|otro:determiner
+otro:art:otro:determiner
+otros|otro:art:otros|otro:determiner
+
+poca|poco:art:poca|poco:determiner
+pocas|poco:art:pocas|poco:determiner
+poco:pron:poco:determiner
+pocos|poco:pron:pocos|poco:determiner
+
+#sus:art:sus:determiner
+suya:adj:suya:determiner
+suyo:adj:suyo:determiner
+
+tantos|tanto:art:tantos|tanto:determiner
+
+todo:art:todo:determiner
+tuya:adj:tuya:determiner
+tuyo:adj:tuyo:determiner
+
+vuestra|vuestro:art:vuestro:determiner
+vuestras|vuestro:art:vuestro:determiner
+vuestro:art:vuestro:determiner
+vuestros|vuestro:art:vuestro:determiner
